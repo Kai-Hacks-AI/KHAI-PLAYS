@@ -72,6 +72,7 @@ const allowed = [
   ['Dramaturgy including its manifest and lockfile at Rehearsal', { to: dramaturgyRef, changes: [dramaturgy, 'playmaking/dramaturgy/package-lock.json'] }, 'Rehearsal'],
   ['Dramaturgy at Opening', { from: dramaturgyRef, to: 'main', changes: [dramaturgy] }, 'Opening'],
   ['Rigging to main', { from: 'rigging/delivery', to: 'main', changes: ['delivery/check.mjs', '.github/workflows/delivery.yml', 'README.md'] }, 'Rigging'],
+  ['root licence through Rigging', { from: 'rigging/licence', to: 'main', changes: ['LICENSE.md'] }, 'Rigging'],
   ['KAAL observations through Rigging', { from: 'rigging/kaal-observations', to: 'main', changes: ['kaal/README.md', 'kaal/observations/founding.md'] }, 'Rigging'],
   ['hotfix for an existing Play', { from: 'hotfix/repair', existing: [alpha] }, 'Hotfix Rehearsal'],
 ];
@@ -98,6 +99,7 @@ const refused = [
   ['a move between Solution families', { existing: [alpha], changes: [], moved: [alpha, dramaturgy] }, /multiple Solution folders.*Split it/],
   ['delivery bundled with Dramaturgy', { to: dramaturgyRef, changes: [dramaturgy, 'delivery/check.mjs'] }, /combined with Solution scope.*Split delivery/],
   ['a root lockfile bundled with Dramaturgy', { to: dramaturgyRef, changes: [dramaturgy, 'package-lock.json'] }, /No delivery route owns.*package-lock\.json/],
+  ['the root licence bundled with Dramaturgy', { to: dramaturgyRef, changes: [dramaturgy, 'LICENSE.md'] }, /combined with Solution scope.*Split delivery/],
   ['Dramaturgy into the Play repertoire with the same slug', { to: 'repertoire/dramaturgy', changes: [dramaturgy] }, /Retarget the PR to repertoire\/playmaking\.dramaturgy/],
   ['Dramaturgy from the Play repertoire with the same slug', { from: 'repertoire/dramaturgy', to: 'main', changes: [dramaturgy] }, /requires the same-repository repertoire\/playmaking\.dramaturgy/],
   ['Hotfix carrying a playmaking unit', { from: 'hotfix/repair', to: dramaturgyRef, changes: [dramaturgy], existing: [dramaturgy] }, /Hotfix is reserved for existing Plays/],

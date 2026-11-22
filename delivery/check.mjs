@@ -30,7 +30,7 @@ function scopeBetween(base, candidate) {
     const unit = solutionPath.exec(path);
     if (unit) {
       units.add(`${unit[1]}/${unit[2]}`);
-    } else if (path === 'README.md' || path === 'kaal/README.md' ||
+    } else if (path === 'README.md' || path === 'LICENSE.md' || path === 'kaal/README.md' ||
       deliveryPath.test(path) || kaalObservationPath.test(path)) {
       delivery.push(path);
     } else {
