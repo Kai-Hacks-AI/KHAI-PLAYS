@@ -11,9 +11,11 @@ KHAI PLAYS brings together Plays and the shared theatrical packages used to make
 | Path | What belongs here |
 | --- | --- |
 | `plays/` | Individual Plays and the material each Play owns |
-| `playmaking/` | Shared theatrical packages used to make Plays, starting with `playmaking/dramaturgy/` (`@kaihacksai/khai-plays-dramaturgy`) |
+| `playmaking/` | Shared theatrical packages used to make Plays, starting with `playmaking/opera/` (`@kaihacksai/khai-plays-opera`) |
 | [`delivery/`](delivery/README.md) | Delivery routes and the checks that govern how changes reach `main` |
 | [`kaal/`](kaal/README.md) | Observations from applying KAAL to KHAI PLAYS delivery |
+
+OPERA is the core package for authoring Plays, staging them, and preserving their performances. Engines and other extensions can follow as separate playmaking packages.
 
 Each publishable folder is its own npm project, with its manifest and lockfile kept inside the folder. See [Delivery](delivery/README.md) for Workshop, Rehearsal, Opening, Touring, and Rigging.
 
