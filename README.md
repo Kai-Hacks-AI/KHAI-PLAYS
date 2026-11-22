@@ -15,7 +15,7 @@ Founding establishes the delivery practice for the repository. A Play moves thro
 | Setup | This repository's `setup/*` → `main` | Delivery only |
 | Hotfix | `hotfix/*` → matching repertoire → Opening | One Play already present on the rehearsal target. Expedite review and keep both gates. |
 
-Choose any Workshop branch name outside the reserved refs `main`, `repertoire/*`, `setup/*` and `hotfix/*`. Lowercase Play slugs use letters and digits separated by single hyphens. Each Play owns its `plays/<play>/` tree. Setup owns `.github/`, `delivery/` and the root `README.md`.
+Choose any Workshop branch name outside the reserved refs `main`, `repertoire/*`, `setup/*` and `hotfix/*`. Lowercase Play slugs use letters and digits separated by single hyphens. Each Play owns its `plays/<play>/` tree. Setup owns `.github/`, `delivery/`, the root `README.md` and the [KAAL observation records](kaal/README.md).
 
 Create `repertoire/<play>` from the current `main` tip before the first Rehearsal for that Play. This is a working convention. Opening checks the source branch and proposed Play change. It does not verify the branch's starting point or require evidence of a prior Rehearsal.
 

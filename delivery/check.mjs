@@ -5,6 +5,7 @@ const slug = '[a-z0-9]+(?:-[a-z0-9]+)*';
 const playPath = new RegExp(`^plays/(${slug})/.+`, 's');
 const commit = /^[a-f0-9]{40}$/;
 const deliveryPath = /^(?:\.github|delivery)\/.+/s;
+const kaalObservationPath = /^kaal\/observations\/[a-z0-9]+(?:-[a-z0-9]+)*\.md$/;
 
 function git(...args) {
   return execFileSync('git', args, { encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 });
@@ -42,7 +43,8 @@ function check(event, merge) {
         reject(`Unowned Play path ${JSON.stringify(path)}.`, 'Use plays/<play>/<file> with a lowercase Play slug.');
       }
       plays.add(match[1]);
-    } else if (path === 'README.md' || deliveryPath.test(path)) {
+    } else if (path === 'README.md' || path === 'kaal/README.md' ||
+      deliveryPath.test(path) || kaalObservationPath.test(path)) {
       delivery.push(path);
     } else {
       reject(`No delivery route owns ${JSON.stringify(path)}.`,

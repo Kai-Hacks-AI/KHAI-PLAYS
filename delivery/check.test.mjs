@@ -58,6 +58,7 @@ const allowed = [
   ['Workshop to matching repertoire', { from: 'a-free-name' }, 'Rehearsal'],
   ['repertoire to main', { from: 'repertoire/alpha', to: 'main' }, 'Opening'],
   ['delivery setup to main', { from: 'setup/founding', to: 'main', changes: ['delivery/check.mjs', '.github/workflows/delivery.yml', 'README.md'] }, 'Setup'],
+  ['KAAL observations through Setup', { from: 'setup/kaal-observations', to: 'main', changes: ['kaal/README.md', 'kaal/observations/founding.md'] }, 'Setup'],
   ['hotfix for an existing Play', { from: 'hotfix/repair', existing: [alpha] }, 'Hotfix Rehearsal'],
 ];
 
@@ -72,6 +73,8 @@ for (const [name, fixture, route] of allowed) {
 const refused = [
   ['delivery and Play at Rehearsal', { changes: ['delivery/check.mjs', alpha] }, /combined with Play.*Split delivery/],
   ['delivery and Play at Opening', { from: 'repertoire/alpha', to: 'main', changes: ['README.md', alpha] }, /combined with Play.*Split delivery/],
+  ['KAAL observation bundled with a Play', { changes: ['kaal/observations/founding.md', alpha] }, /combined with Play.*Split delivery/],
+  ['unassigned KAAL path through Setup', { from: 'setup/kaal-observations', to: 'main', changes: ['kaal/package.json'] }, /No delivery route owns.*kaal\/package\.json/],
   ['two Plays at Rehearsal', { changes: [alpha, beta] }, /multiple Plays.*Split it/],
   ['two Plays at Opening', { from: 'repertoire/alpha', to: 'main', changes: [alpha, beta] }, /multiple Plays.*Split it/],
   ['cross-Play move', { existing: [alpha], changes: [], moved: [alpha, beta] }, /multiple Plays.*Split it/],
