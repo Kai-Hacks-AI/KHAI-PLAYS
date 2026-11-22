@@ -55,9 +55,9 @@ function run(t, { from = 'work/scene', to = 'repertoire/alpha', changes = [alpha
 }
 
 const allowed = [
-  ['development to matching repertoire', { from: 'a-free-name' }, 'Rehearsal'],
+  ['Workshop to matching repertoire', { from: 'a-free-name' }, 'Rehearsal'],
   ['repertoire to main', { from: 'repertoire/alpha', to: 'main' }, 'Opening'],
-  ['delivery setup to main', { from: 'setup/ground-zero', to: 'main', changes: ['delivery/check.mjs'] }, 'Setup'],
+  ['delivery setup to main', { from: 'setup/founding', to: 'main', changes: ['delivery/check.mjs', '.github/workflows/delivery.yml', 'README.md'] }, 'Setup'],
   ['hotfix for an existing Play', { from: 'hotfix/repair', existing: [alpha] }, 'Hotfix Rehearsal'],
 ];
 
@@ -75,18 +75,22 @@ const refused = [
   ['two Plays at Rehearsal', { changes: [alpha, beta] }, /multiple Plays.*Split it/],
   ['two Plays at Opening', { from: 'repertoire/alpha', to: 'main', changes: [alpha, beta] }, /multiple Plays.*Split it/],
   ['cross-Play move', { existing: [alpha], changes: [], moved: [alpha, beta] }, /multiple Plays.*Split it/],
-  ['delivery-to-Play move', { existing: ['fixture.txt'], changes: [], moved: ['fixture.txt', alpha] }, /combined with Play.*Split delivery/],
+  ['delivery-to-Play move', { existing: ['delivery/fixture.txt'], changes: [], moved: ['delivery/fixture.txt', alpha] }, /combined with Play.*Split delivery/],
+  ['shared Solution through Setup', { from: 'setup/workspace', to: 'main', changes: ['packages/shared/package.json'] }, /No delivery route owns.*packages\/shared\/package\.json/],
+  ['root npm workspace through Setup', { from: 'setup/workspace', to: 'main', changes: ['package.json'] }, /No delivery route owns.*package\.json/],
+  ['shared Solution bundled with a Play', { changes: [alpha, 'foundations/shared/index.mjs'] }, /No delivery route owns.*foundations\/shared/],
+  ['Play moved into a shared Solution', { existing: [alpha], changes: [], moved: [alpha, 'packages/shared/fixture.txt'] }, /No delivery route owns.*packages\/shared/],
   ['unowned Play path', { changes: ['plays/shared.txt'] }, /Unowned Play path.*Use plays/],
   ['wrong rehearsal target', { to: 'repertoire/beta' }, /Retarget the PR to repertoire\/alpha/],
-  ['repertoire to repertoire', { from: 'repertoire/beta' }, /requires a development or hotfix.*working branch/],
-  ['development directly to main', { to: 'main' }, /Opening.*requires.*Rehearse/],
+  ['repertoire to repertoire', { from: 'repertoire/beta' }, /requires a Workshop or hotfix.*working branch/],
+  ['Workshop directly to main', { to: 'main' }, /Opening.*requires.*Rehearse/],
   ['wrong Opening source', { from: 'repertoire/beta', to: 'main' }, /Opening.*requires.*Rehearse/],
   ['fork masquerading as repertoire', { from: 'repertoire/alpha', to: 'main', fork: true }, /requires the same-repository.*Rehearse/],
   ['setup targeting repertoire', { from: 'setup/guard', changes: ['delivery/check.mjs'] }, /setup\/\* PR into main.*target main/],
   ['setup carrying a Play', { from: 'setup/scene', to: 'main' }, /Opening.*requires.*Rehearse/],
   ['fork setup', { from: 'setup/guard', to: 'main', fork: true, changes: ['README.md'] }, /same-repository setup.*target main/],
   ['hotfix directly to main', { from: 'hotfix/repair', to: 'main', existing: [alpha] }, /Opening.*requires.*Rehearse/],
-  ['hotfix for a new Play', { from: 'hotfix/repair' }, /Hotfix requires.*Use a regular development branch/],
+  ['hotfix for a new Play', { from: 'hotfix/repair' }, /Hotfix requires.*Use a Workshop branch/],
   ['hotfix carrying delivery', { from: 'hotfix/repair', changes: ['README.md'] }, /setup\/\* PR into main.*target main/],
   ['empty merge', { changes: [] }, /changes no files.*Close the empty PR/],
   ['stale event', { staleEvent: true }, /does not match.*rerun CI/],

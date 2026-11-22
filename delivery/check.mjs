@@ -4,6 +4,7 @@ import { readFileSync } from 'node:fs';
 const slug = '[a-z0-9]+(?:-[a-z0-9]+)*';
 const playPath = new RegExp(`^plays/(${slug})/.+`, 's');
 const commit = /^[a-f0-9]{40}$/;
+const deliveryPath = /^(?:\.github|delivery)\/.+/s;
 
 function git(...args) {
   return execFileSync('git', args, { encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 });
@@ -41,8 +42,11 @@ function check(event, merge) {
         reject(`Unowned Play path ${JSON.stringify(path)}.`, 'Use plays/<play>/<file> with a lowercase Play slug.');
       }
       plays.add(match[1]);
-    } else {
+    } else if (path === 'README.md' || deliveryPath.test(path)) {
       delivery.push(path);
+    } else {
+      reject(`No delivery route owns ${JSON.stringify(path)}.`,
+        'Keep it out of this PR until an ownership and promotion route is defined for the path.');
     }
   }
   if (delivery.length && plays.size) {
@@ -71,12 +75,12 @@ function check(event, merge) {
     reject(`A change for ${play} cannot rehearse into ${JSON.stringify(to)}.`, `Retarget the PR to ${collector}.`);
   }
   if (from === 'main' || from.startsWith('repertoire/') || from.startsWith('setup/')) {
-    reject('Rehearsal requires a development or hotfix/* branch.', `Move the Play change onto a working branch and target ${collector}.`);
+    reject('Rehearsal requires a Workshop or hotfix/* branch.', `Move the Play change onto a working branch and target ${collector}.`);
   }
   if (from.startsWith('hotfix/')) {
     const directory = git('ls-tree', '-d', '--name-only', '-z', base.sha, '--', `plays/${play}`);
     if (!directory) {
-      reject(`Hotfix requires ${play} to exist in ${collector}.`, 'Use a regular development branch for a new Play.');
+      reject(`Hotfix requires ${play} to exist in ${collector}.`, 'Use a Workshop branch for a new Play.');
     }
     return 'Hotfix Rehearsal';
   }
