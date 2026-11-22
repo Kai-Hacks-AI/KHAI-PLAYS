@@ -22,7 +22,7 @@ Choose any Workshop branch name outside the reserved refs `main`, `repertoire/*`
 | `plays/<play>/` | `repertoire/<play>` |
 | `playmaking/<unit>/` | `repertoire/playmaking.<unit>` |
 
-A publishable unit keeps its `package.json` and `package-lock.json` inside its folder. A change to a second folder moves through a separate PR in dependency order. Rigging owns `.github/`, `delivery/`, the root `README.md` and the [KAAL observation records](../kaal/README.md).
+A publishable unit keeps its `package.json` and `package-lock.json` inside its folder. A change to a second folder moves through a separate PR in dependency order. Rigging owns `.github/`, `delivery/`, the root `README.md` and `LICENSE.md`, and the [KAAL observation records](../kaal/README.md).
 
 Create the repertoire branch from the current `main` tip before the first Rehearsal. This is a working convention. Opening checks the source branch and proposed change. It does not verify the branch's starting point or require evidence of a prior Rehearsal.
 
