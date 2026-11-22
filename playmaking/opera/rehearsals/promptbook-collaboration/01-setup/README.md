@@ -1,6 +1,6 @@
-# Rehearsal Setup: Promptbook Collaboration
+# Rehearsal Setup: HACKS from an Intended Effect
 
-Can the Playwright write one sentence that changes how a whole Play works, and can the Director stage that condition while leaving the choices to the Personas?
+Can the Playwright take a desired effect from the human and find the HACKS conditions that help achieve it? What does each sentence do on its own, and how do they work together across the whole Play?
 
 ## Authoring reference
 
@@ -20,23 +20,39 @@ The following is the project owner's example of how HACKS can work. It is author
 
 ## Create
 
-Give a fresh authoring agent the [Playwright skill](../../../skills/khai-playwright/SKILL.md), its [Promptbook template](../../../skills/khai-playwright/references/promptbook.md), the owner's example above, and the [Company fixture](../02-company/README.md).
+Give a fresh authoring agent the [Playwright skill](../../../skills/khai-playwright/SKILL.md), its [Promptbook template](../../../skills/khai-playwright/references/promptbook.md) and chapter guides, the owner's example above, and the [Company fixture](../02-company/README.md).
 
-> Start with an empty Promptbook for this Play. Write one sentence under Collaboration so that what just happened can determine who acts next. Make the sentence stand on its own.
+> I want to watch the siblings work out what the painting means to them without steering the conversation. I want to be able to join if I choose. Let what each sibling does change who has a reason to act next. Let what they discover or leave unsettled carry into the second scene. Keep us in the fiction until I ask to discuss it.
 
-Save the sentence as written. Check that it changes a condition of play and leaves the next action to the Personas.
+> Start with an empty Promptbook. For each of Human, Agent, Collaboration, Knowledge, and System, try one short, self-contained sentence that changes a condition of play in service of the brief. If a chapter adds nothing needed, say so separately and leave it empty. Let the Personas supply their moves.
+
+Save the exact sentences. Outside the Promptbook, add a short note on which part of the brief each sentence serves and why it belongs under that heading.
 
 ## Rehearse
 
-- Stage the whole two-scene fixture twice with a literally empty Promptbook and twice with the authored Collaboration sentence alone. Use a fresh Director and fresh performer contexts for each run. Keep the Company and opening conditions fixed. Preserve each performer's own experience between the two scenes.
-- Give each Director the [Director skill](../../../skills/khai-director/SKILL.md), the Company, and the assigned Promptbook. The owner example and authoring brief stay at the authoring table. Each performer receives the shared situation, their own Persona, and the assigned instructions. Share observable moves as they happen.
-- The human supplies the initial conditions once and stays outside the fiction. The Director introduces the second scene when the first exchange rests. Carry forward whatever happened to the painting and any unfinished business. Leave the last exchange open when it rests.
-- If the Director needs a tuning pass, record the first run, then try one short replacement sentence under Collaboration in a fresh run. Keep the rest of the conditions fixed.
+Stage the whole two-scene Play in fresh Director and performer contexts. Use the same Company and opening conditions throughout. Run each populated condition twice to see what holds across different performances.
+
+| Pass | Promptbook supplied |
+| --- | --- |
+| Baseline | Empty |
+| Human alone | Only the authored Human sentence |
+| Agent alone | Only the authored Agent sentence |
+| Collaboration alone | Only the authored Collaboration sentence |
+| Knowledge alone | Only the authored Knowledge sentence |
+| System alone | Only the authored System sentence |
+| Combined | The same sentences together under their HACKS headings |
+
+An empty chapter has no separate pass. Keep wording fixed between an individual pass and the combined pass.
+
+- Give each Director the [Director skill](../../../skills/khai-director/SKILL.md), the Company, and the assigned Promptbook. The owner example and authoring notes stay at the authoring table. Each performer receives the shared situation, their own Persona, and the assigned instructions. Share observable moves as they happen.
+- The human supplies the initial conditions once and observes. The Director introduces the second scene when the first exchange rests. Performers carry forward their own experience, the state of the painting, and unfinished business.
+- If a condition has no occasion to matter, record that. A brief matched probe is a separate pass, such as the Human explicitly joining at the same point in both versions.
+- For a tuning pass, save the first result and change one sentence in one chapter. Keep the rest fixed and record the new wording.
 
 ## Review and preserve in SCORE
 
-- **Setup:** Record the exact commit and the skill files used.
-- **Company:** Save the Playwright's exact sentence alongside the fixture.
-- **Observations:** Trace what gave a Persona their next move across both scenes. Note moments when a Persona spoke twice, stayed silent, or carried a consequence into the second scene. Note extra direction the Director supplied. Similar behavior under the empty Promptbook is a finding too.
-- **Runs:** Save each performance and a short Director note.
-- **Evolution:** Propose the smallest change to a skill or its template, with evidence from the runs. Identify whether the Playwright's wording or the Director's staging is the part to change.
+- **Setup:** Record the exact commit and skill files, the desired effect, and the conditions used.
+- **Company:** Save the fixture, exact Promptbooks, and Playwright's authoring note.
+- **Observations:** For each sentence, record one behavior it affected or a reason the run gave it no occasion to matter. Look at the Human's room to act, how Personas speak or act, what drives handoffs, how facts become known, and which rules hold under pressure. Review the combined runs against the original brief. Note where two sentences help each other, overlap, or pull in different directions. Track what carries across the scenes and what extra direction the Director supplied.
+- **Runs:** Save each performance and a short Director note. Different outcomes can still show the same rule at work.
+- **Evolution:** Propose the smallest change to the Playwright, a HACKS template, or the Director, and tie it to the evidence. Explain what would help the Playwright go from the next desired effect to a short set of conditions.
