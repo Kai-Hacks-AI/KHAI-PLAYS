@@ -20,3 +20,5 @@ Copyright (c) 2026 Kai Hacks AI.
 This README and KHAI-owned material in `.github/`, `delivery/`, and `kaal/` are available under the [MIT License](https://opensource.org/license/mit).
 
 KHAI-owned Solution material in `plays/` and `playmaking/` is available under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Both folders use the same policy. Third-party material retains its own terms, attribution, and notices. Each publishable Solution folder states its package terms in its npm manifest and includes its own licence notice and the applicable licence texts in the tarball.
+
+See the [full repository licence notice](LICENSE.md).
