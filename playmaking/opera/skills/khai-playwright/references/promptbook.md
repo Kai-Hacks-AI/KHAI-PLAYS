@@ -1,25 +1,25 @@
 # Promptbook / HACKS
 
-Use these five lenses to decide what the production establishes before the performance and what the cast can discover by playing.
+A Promptbook sets the instructions for humans and agents working together. HACKS describes who acts, how they work together, how they handle knowledge, and what rules govern the work.
 
 ## Human
 
-Set the purpose and initial conditions. Resolve choices that would materially change the Play before giving it to the cast.
+Describe what the human does in this setup. The human may direct, build the world, or set the conditions.
 
 ## Agent
 
-Give each performer a role, something to pursue, and room to choose how to act.
+Describe what the agent does in this setup. It may inhabit a role, narrate, or carry out the conditions it has been given.
 
 ## Collaboration
 
-Decide how the roles encounter each other and how their choices can change the situation. Give the cast a reason to respond to one another.
+State how human and agent work together and how agents coordinate with each other.
 
 ## Knowledge
 
-Decide who knows what at the opening, which facts are shared, and what may be discovered or revealed during the scene.
+State how information enters, moves through, and is recorded in the system. For a Play, plots and elements are the structures where that knowledge lands.
 
 ## System
 
-State the constraints that hold throughout the performance. Leave the cast space to decide how the scene unfolds within those constraints.
+State the binding rules that override the agent's defaults. Make them clear before the work begins.
 
-Adapted from the [KHAI Instructions canon](https://github.com/ChBrain/khai/blob/c8c56c7e843eac2eb33709d06ad1d7aca4dd8c00/packages/khai-arch/architecture/instructions.md) for OPERA's authoring workflow.
+Adapted from the [KHAI Instructions canon](https://github.com/ChBrain/khai/blob/c8c56c7e843eac2eb33709d06ad1d7aca4dd8c00/packages/khai-arch/architecture/instructions.md) for OPERA.
