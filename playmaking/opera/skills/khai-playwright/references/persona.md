@@ -20,8 +20,8 @@ Give the Persona one deliberate move that gives someone else a cue.
 
 ## Shadow
 
-Name the blind spot that puts pressure on the Projection. The Persona can see it only in part, if at all.
+Give the Persona a blind spot that conflicts with what they present in Projection. Make it specific enough to account for the Tell under pressure.
 
 ## Tell
 
-Give one involuntary physical sign that leaks when the Shadow is under pressure. Let others notice the sign and draw their own conclusions.
+Give one involuntary physical sign, distinct from the deliberate move in Action. It can surface in the same beat. Let others notice that something is off and draw their own conclusions.
