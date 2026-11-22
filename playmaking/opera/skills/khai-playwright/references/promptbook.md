@@ -1,6 +1,8 @@
 # Build a Promptbook
 
-Write one short Promptbook for the Play. Its five chapters set how the human and agents take part in the performance.
+Write a short Promptbook for this Play. Choose instructions that suit it. A different Promptbook changes how the same authored Play is performed.
+
+Each of the five chapters has a fixed job:
 
 - [Human](human.md)
 - [Agent](agent.md)

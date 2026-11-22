@@ -1,3 +1,3 @@
 # Knowledge
 
-Say what information the participants may use, how it enters the scene, and what counts as evidence. State any important limits on who can know or reveal it.
+Say how information enters, moves through, and lands in the Play. Specify who can use or reveal it, what counts as evidence, and where it is recorded if it needs to persist.
