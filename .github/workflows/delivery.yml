@@ -1,0 +1,37 @@
+name: Delivery
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, edited]
+
+permissions:
+  contents: read
+
+jobs:
+  route:
+    name: Delivery route
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      BASE_SHA: ${{ github.event.pull_request.base.sha }}
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Check proposed merge
+        run: |
+          git cat-file -e "$BASE_SHA^{commit}"
+          if [ "$BASE_SHA" = ef6e9fe384565961315c57052707cad3cad6e6ee ]; then
+            # The initial README commit predates the checker. Owner review governs bootstrap.
+            node delivery/check.mjs
+          else
+            git show "$BASE_SHA:delivery/check.mjs" > "$RUNNER_TEMP/check.mjs"
+            node "$RUNNER_TEMP/check.mjs"
+          fi
+      - name: Test delivery policy
+        if: >-
+          github.base_ref == 'main' &&
+          github.event.pull_request.head.repo.id == github.event.pull_request.base.repo.id &&
+          (startsWith(github.head_ref, 'rigging/') ||
+          (github.event.number == 1 && github.head_ref == 'setup/ground-zero'))
+        run: node --test delivery/check.test.mjs
