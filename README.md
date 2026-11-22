@@ -11,4 +11,4 @@ KHAI PLAYS brings together Plays and the shared theatrical packages used to make
 | [`delivery/`](delivery/README.md) | Delivery routes and the checks that govern how changes reach `main` |
 | [`kaal/`](kaal/README.md) | Observations from applying KAAL to KHAI PLAYS delivery |
 
-The intended npm layout is one root workspace. Independently publishable packages have their own `package.json`. See [Delivery](delivery/README.md) for Workshop, Rehearsal, Opening, Touring, and Rigging.
+Each publishable folder is its own npm project, with its manifest and lockfile kept inside the folder. See [Delivery](delivery/README.md) for Workshop, Rehearsal, Opening, Touring, and Rigging.
