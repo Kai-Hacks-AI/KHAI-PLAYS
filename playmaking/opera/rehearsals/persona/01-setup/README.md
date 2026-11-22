@@ -3,7 +3,7 @@
 ## Target Under Test
 
 - **Pull Request:** [KHAI PLAYS PR #11](https://github.com/Kai-Hacks-AI/KHAI-PLAYS/pull/11) (`opera-persona` → `repertoire/playmaking.opera`)
-- **Commit Tested:** `ca9737c82fd543ecd8b5c091cfe831d849394dcc` (*Add the TO PAST Persona template*)
+- **Commit Tested:** `ca9737c82fd543ecd8b5c091cfe831d849394dcc` (*Add the TO PAST Persona template*; while staging was in progress, `a7375d0` sharpened `Shadow` and `Tell` in `references/persona.md`)
 - **Skills Under Test:**
   - `playmaking/opera/skills/khai-playwright/SKILL.md`
   - `playmaking/opera/skills/khai-playwright/references/persona.md` *(TO PAST: Taxonomy, Owner, Projection, Action, Shadow, Tell)*

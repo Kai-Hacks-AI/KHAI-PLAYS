@@ -63,9 +63,9 @@ Evidence-linked assessments and smallest proposed edits for **Playwright**, **Pr
       ```markdown
       Show what the Persona presents in posture, speech, and use of space across any room. Make it observable without tying it to one setting.
       ```
-    - Under `## Tell`, replace `Give one involuntary physical sign that leaks when the Shadow is under pressure.` with:
+    - Under `## Tell` (building on `a7375d0`'s current `Give one involuntary physical sign, distinct from the deliberate move in Action. It can surface in the same beat. Let others notice that something is off and draw their own conclusions.`), make dormancy explicit on non-pressure beats:
       ```markdown
-      Give one involuntary physical sign that stays dormant until the Shadow is under pressure, then leaks.
+      Give one involuntary physical sign, distinct from the deliberate move in Action, that stays dormant until the Shadow is under pressure. It can surface in the same beat. Let others notice that something is off and draw their own conclusions.
       ```
 
 ---
