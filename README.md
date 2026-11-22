@@ -17,6 +17,10 @@ Founding establishes the delivery practice for the repository. A Play moves thro
 
 Choose any Workshop branch name outside the reserved refs `main`, `repertoire/*`, `setup/*` and `hotfix/*`. Lowercase Play slugs use letters and digits separated by single hyphens. Each Play owns its `plays/<play>/` tree. Setup owns `.github/`, `delivery/` and the root `README.md`.
 
+Create `repertoire/<play>` from the current `main` tip before the first Rehearsal for that Play. This is a working convention. Opening checks the source branch and proposed Play change. It does not verify the branch's starting point or require evidence of a prior Rehearsal.
+
+GitHub is configured to delete merged PR head branches. The Workshop head should be deleted after Rehearsal and the repertoire head after Opening. Start the next repertoire from the current `main` tip.
+
 Shared foundations, engines, composites and other Solution packages are theatrical content. Their ownership and promotion routes will be defined when introduced. The checker refuses changes to paths without an assigned route, including future shared or workspace paths. The intended npm layout uses independently publishable packages under one workspace root with multiple patterns as needed. Separate workspace roots remain an option if packages need separate lockfiles.
 
 ## Controls
@@ -32,6 +36,6 @@ The check covers changes to Git paths and the PR route. Cross-Play runtime depen
 
 ## Owner activation
 
-1. Use the `opening` ruleset for `main` and a separate merge ruleset for `repertoire/*`. Require PRs and a required **Delivery route** status check from GitHub Actions. Require branches to be up to date each time and fresh approval when new changes are pushed. Block force pushes and keep the merge ruleset bypass lists empty. The Owner explicitly reviews Founding. Require code-owner review once `CODEOWNERS` is on the target branch.
-2. Use a separate lifecycle ruleset for creation and deletion of `repertoire/*` with an Owner exception. Establish each repertoire ref at the current `main` tip. Keep the exception out of the merge ruleset. If `main` advances before Opening, retain the pending changes on a recovery ref, re-establish the repertoire at the new `main` tip, and rehearse the pending changes of that Play again. Retire an opened repertoire before the next cycle.
-3. After activation, exercise a valid PR and a deliberately invalid PR against protected branches. Confirm that GitHub blocks the invalid merge. Local test results and the bootstrap CI run are separate evidence from this enforcement check.
+1. Use the `opening` ruleset for `main` and the `rehearsal` ruleset for `repertoire/*`. Require PRs and the **Delivery route** status check from GitHub Actions. Require branches to be up to date each time and fresh approval when new changes are pushed. Block force pushes and keep the merge ruleset bypass lists empty. The Owner explicitly reviews Founding. Require code-owner review once `CODEOWNERS` is on the target branch.
+2. Enable automatic head-branch deletion. Keep repertoire creation and deletion open. If `main` advances before Opening, retain the pending changes on a recovery ref, re-establish the repertoire at the new `main` tip, and rehearse the pending changes of that Play again.
+3. Confirm that GitHub blocks a deliberately invalid PR. Verify head-branch deletion after the first successful Rehearsal and Opening. Local test results and the Founding CI run are separate evidence from these GitHub checks.
