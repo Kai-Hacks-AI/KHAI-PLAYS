@@ -11,7 +11,7 @@ KHAI PLAYS brings together Plays and the shared theatrical packages used to make
 | Path | What belongs here |
 | --- | --- |
 | `plays/` | Individual Plays and the material each Play owns |
-| `playmaking/` | Shared theatrical packages used to make Plays, starting with `playmaking/dramaturgy/` |
+| `playmaking/` | Shared theatrical packages used to make Plays, starting with `playmaking/dramaturg/` |
 | [`delivery/`](delivery/README.md) | Delivery routes and the checks that govern how changes reach `main` |
 | [`kaal/`](kaal/README.md) | Observations from applying KAAL to KHAI PLAYS delivery |
 
