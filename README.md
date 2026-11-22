@@ -1,6 +1,10 @@
-# KHAI-PLAYS
+# KHAI PLAYS OPERA
 
-Kai Hacks AI - Performing Lets Agents Yield Stories
+- **KHAI — Kai Hacks AI**
+- **PLAYS — Performing Lets Agents Yield Stories**
+- **OPERA — Orchestrated Plays Enrich Roleplaying Agents**
+
+Orchestrated Plays give roleplaying agents a shared structure. Stories emerge through their performance.
 
 KHAI PLAYS brings together Plays and the shared theatrical packages used to make them. KAAL informs how we deliver that work.
 
