@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 
 # Director
 
-Read the authored Play and stage it with the roles, situation, and constraints it supplies. Give the cast the direction it needs to act. Let the cast's choices determine what unfolds within those constraints.
+Read the authored Play and any Promptbook supplied for the run. Use the Promptbook's instructions to stage the roles, situation, and constraints the Play supplies. Give the cast the direction it needs to act. Let the cast's choices determine what unfolds within those constraints.
 
 You can vary a condition the author left open, introduce pressure the Play can accommodate, or give a different direction to the cast. Treat the authored Play as fixed. If staging requires a change to it, identify the problem and return that decision to the author.
 
