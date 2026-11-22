@@ -18,8 +18,8 @@
 - **Skill installation:** Both `khai-playwright` and `khai-director` were installed into `.agents/skills/` and registered in the runtime skill table (`~/.gemini/skills/`) from commit `eaeec0f89effc48f210247f671748f51a622247b`.
 - **Execution context:** Fresh isolated subagent (`Model: inherit`) given only `khai-playwright`, its local `references/`, and the brief:
   > *"Write a one-scene Play in which two people must decide whether to open a letter before a bell rings."*
-- **Handling of clarifications:** Per `khai-playwright` (*"ask the human when a missing decision would materially change it"*), any question asked before authoring was answered minimally without coaching on Promptbook structure, and recorded verbatim for [results.md](results.md).
-- **Preservation:** The Playwright's Play (*Before the Notary's Bell*) and five-chapter Promptbook were saved verbatim as [play.md](play.md) and [promptbook.md](promptbook.md).
+- **Handling of clarifications:** Per `khai-playwright` (*"ask the human when a missing decision would materially change it"*), any question asked before authoring was answered minimally without coaching on Promptbook structure, and recorded verbatim for [03-observations](../03-observations/README.md).
+- **Preservation:** The Playwright's Play (*Before the Notary's Bell*) and five-chapter Promptbook were saved verbatim as [play.md](../02-company/play.md) and [promptbook.md](../02-company/promptbook.md).
 
 ---
 
@@ -28,7 +28,7 @@
 Each of the six staging runs uses:
 
 1. **Fresh isolated context:** A brand-new `self` subagent (`Model: inherit`) per run.
-2. **Leakage prevention:** During staging, the full Promptbook and other runs' outputs are held outside the repository workspace so no Director or cast context can inspect withheld chapters or sibling runs. Each Director receives only `khai-director`, the verbatim authored [play.md](play.md), and that run's exact Promptbook slice.
+2. **Leakage prevention:** During staging, the full Promptbook and other runs' outputs are held outside the repository workspace so no Director or cast context can inspect withheld chapters or sibling runs. Each Director receives only `khai-director`, the verbatim authored [play.md](../02-company/play.md), and that run's exact Promptbook slice.
 3. **Consistent starting condition:** Every Director receives the same neutral human instruction:
    > *"Stage one full performance of this Play using its default opening conditions."*
 4. **Cumulative chapter schedule:**
@@ -46,7 +46,7 @@ Each of the six staging runs uses:
 
 ## Pre-Registered Observable Expectations (Written Before Staging)
 
-Each expectation below was written after inspecting the authored [play.md](play.md) and [promptbook.md](promptbook.md) and **before** launching any of the six Director runs.
+Each expectation below was written after inspecting the authored [play.md](../02-company/play.md) and [promptbook.md](../02-company/promptbook.md) and **before** launching any of the six Director runs.
 
 ### Run 1 → Run 2 (`+ Human`)
 - **What the chapter says:** Casts the human as **Curtain-Setter and Audience**, pins the Play's three adjustable opening conditions to explicit operational defaults (`Starting Holder = table`, `Countdown Length (N) = 8` spoken character turns before the Notary's bell, `Opening Tilt = unfixed`), and keeps the human out of the fiction until `[BLACKOUT]` unless issuing `PAUSE` or `CUT` *(a forward reference to `System`)*.
