@@ -2,7 +2,7 @@
 
 Kai Hacks AI - Performing Lets Agents Yield Stories
 
-Founding establishes the delivery practice for the repository. A Play moves through Workshop, Rehearsal, Opening and Touring. Setup delivers infrastructure independently of that sequence.
+Founding establishes the delivery practice for the repository. A Play moves through Workshop, Rehearsal, Opening and Touring. Rigging delivers infrastructure independently of that sequence.
 
 ## Delivery
 
@@ -12,10 +12,10 @@ Founding establishes the delivery practice for the repository. A Play moves thro
 | Rehearsal | Workshop branch → `repertoire/<play>` | One Play, matching the target |
 | Opening | This repository's `repertoire/<play>` → `main` | One Play, matching the source |
 | Touring | Selected packages from `main` → npmjs | Publishing follows Founding |
-| Setup | This repository's `setup/*` → `main` | Delivery only |
+| Rigging | This repository's `rigging/*` → `main` | Delivery only |
 | Hotfix | `hotfix/*` → matching repertoire → Opening | One Play already present on the rehearsal target. Expedite review and keep both gates. |
 
-Choose any Workshop branch name outside the reserved refs `main`, `repertoire/*`, `setup/*` and `hotfix/*`. Lowercase Play slugs use letters and digits separated by single hyphens. Each Play owns its `plays/<play>/` tree. Setup owns `.github/`, `delivery/`, the root `README.md` and the [KAAL observation records](kaal/README.md).
+Choose any Workshop branch name outside the reserved refs `main`, `repertoire/*`, `rigging/*` and `hotfix/*`. Lowercase Play slugs use letters and digits separated by single hyphens. Each Play owns its `plays/<play>/` tree. Rigging owns `.github/`, `delivery/`, the root `README.md` and the [KAAL observation records](kaal/README.md).
 
 Create `repertoire/<play>` from the current `main` tip before the first Rehearsal for that Play. This is a working convention. Opening checks the source branch and proposed Play change. It does not verify the branch's starting point or require evidence of a prior Rehearsal.
 
@@ -26,7 +26,7 @@ Shared foundations, engines, composites and other Solution packages are theatric
 ## Controls
 
 - **Directive.** Use the routes and ownership above. Owner review governs changes to the checker and workflow.
-- **Detective.** Delivery route checks the file delta from the PR's base to GitHub's test merge commit. It validates the merge's parents and reads the checker from the accepted target. The initial Setup PR exercises its proposed checker because the initial commit has none. Tests cover allowed routes and refusals using temporary Git trees.
+- **Detective.** Delivery route checks the file delta from the PR's base to GitHub's test merge commit. It validates the merge's parents and reads the checker from the accepted target. Founding PR #1 uses its proposed checker because the initial commit has none. It can use its original `setup/ground-zero` branch only against that initial commit. Tests cover allowed routes and refusals using temporary Git trees.
 - **Preventive.** GitHub repository rules must require the PR and the Delivery route check on `main` and `repertoire/*`. A CI result alone reports a verdict.
 - **Corrective.** If an out-of-policy change reaches `main`, revert it through the normal route for each affected scope. If a repertoire is contaminated, retain a recovery ref and re-establish the repertoire from `main`. Rehearse only the intended changes again.
 

@@ -4,6 +4,7 @@ import { readFileSync } from 'node:fs';
 const slug = '[a-z0-9]+(?:-[a-z0-9]+)*';
 const playPath = new RegExp(`^plays/(${slug})/.+`, 's');
 const commit = /^[a-f0-9]{40}$/;
+const foundingBase = 'ef6e9fe384565961315c57052707cad3cad6e6ee';
 const deliveryPath = /^(?:\.github|delivery)\/.+/s;
 const kaalObservationPath = /^kaal\/observations\/[a-z0-9]+(?:-[a-z0-9]+)*\.md$/;
 
@@ -53,7 +54,7 @@ function check(event, merge) {
   }
   if (delivery.length && plays.size) {
     reject(`Delivery path ${JSON.stringify(delivery[0])} is combined with Play scope (${[...plays].join(', ')}).`,
-      'Split delivery into a setup/* PR and submit each Play through its repertoire.');
+      'Split delivery into a rigging/* PR and submit each Play through its repertoire.');
   }
   if (plays.size > 1) {
     reject(`This PR changes multiple Plays (${[...plays].join(', ')}).`, 'Split it into one PR per Play.');
@@ -63,8 +64,11 @@ function check(event, merge) {
   const from = head.ref;
   const to = base.ref;
   if (!play) {
-    if (sameRepository && from.startsWith('setup/') && to === 'main') return 'Setup';
-    reject('Delivery changes require a same-repository setup/* PR into main.', 'Move the delivery changes onto a setup/* branch and target main.');
+    if (sameRepository && to === 'main') {
+      if (from.startsWith('rigging/')) return 'Rigging';
+      if (event.number === 1 && base.sha === foundingBase && from === 'setup/ground-zero') return 'Founding';
+    }
+    reject('Delivery changes require a same-repository rigging/* PR into main.', 'Move the delivery changes onto a rigging/* branch and target main.');
   }
 
   const collector = `repertoire/${play}`;
@@ -76,7 +80,7 @@ function check(event, merge) {
   if (to !== collector) {
     reject(`A change for ${play} cannot rehearse into ${JSON.stringify(to)}.`, `Retarget the PR to ${collector}.`);
   }
-  if (from === 'main' || from.startsWith('repertoire/') || from.startsWith('setup/')) {
+  if (from === 'main' || from.startsWith('repertoire/') || from.startsWith('rigging/')) {
     reject('Rehearsal requires a Workshop or hotfix/* branch.', `Move the Play change onto a working branch and target ${collector}.`);
   }
   if (from.startsWith('hotfix/')) {

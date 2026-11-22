@@ -29,5 +29,9 @@ jobs:
             node "$RUNNER_TEMP/check.mjs"
           fi
       - name: Test delivery policy
-        if: startsWith(github.head_ref, 'setup/') && github.base_ref == 'main' && github.event.pull_request.head.repo.id == github.event.pull_request.base.repo.id
+        if: >-
+          github.base_ref == 'main' &&
+          github.event.pull_request.head.repo.id == github.event.pull_request.base.repo.id &&
+          (startsWith(github.head_ref, 'rigging/') ||
+          (github.event.number == 1 && github.head_ref == 'setup/ground-zero'))
         run: node --test delivery/check.test.mjs

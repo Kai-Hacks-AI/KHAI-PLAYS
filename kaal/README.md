@@ -5,7 +5,7 @@ KHAI PLAYS is the Solution. KAAL supplies delivery knowledge and mechanics. This
 - **External mode** uses KAAL as a source of delivery knowledge and implements the mechanics independently. Record the reasoning each time we choose an implementation outside KAAL.
 - **Embedded mode** uses KAAL packages published to npmjs. Record the package and version, what it handled, and any mechanics that still needed separate implementation. Founding used external mode.
 
-Write observations as soon as there is a finding, including when a delivery check refuses a change. KAAL and contributors can open an observation-only Setup PR independently of the work being observed. That PR follows the usual review and merge requirements for `main`.
+Write observations as soon as there is a finding, including when a delivery check refuses a change. KAAL and contributors can open an observation-only Rigging PR independently of the work being observed. That PR follows the usual review and merge requirements for `main`.
 
 ## Record format
 
