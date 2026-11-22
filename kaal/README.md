@@ -19,6 +19,15 @@ Write observations as soon as there is a finding, including when a delivery chec
 
 ## Record format
 
-Use a Markdown file in `observations/` with a short lowercase hyphenated name. Group related findings by the work that produced them. Record the mode and, for each finding, capture the delivery need, what KAAL offered, the missing mechanic or prerequisite, the implementation used, and the observed result. Link to the source or evidence and state what would justify embedding the relevant package.
+Use one Markdown file per KAAL capability in `observations/`, named for the capability. Give each finding its own heading so it can be linked directly.
 
-- [Founding](observations/founding.md)
+- **Need** — What KHAI PLAYS needed to do.
+- **Revision** — The KAAL commit or package version when it helps reproduce the result.
+- **Observed result** — What happened, with a source, case, or run that supports it.
+- **Impact** — What the result means for KHAI PLAYS.
+- **How we work instead** — The workaround or other way KHAI PLAYS achieves the goal.
+
+KAAL owns changes to its capabilities. This record describes how KHAI PLAYS proceeds.
+
+- [Controls findings](observations/controls.md)
+- [Founding observations](observations/founding.md) across capabilities
