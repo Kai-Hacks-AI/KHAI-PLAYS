@@ -1,0 +1,1 @@
+Intentional merge-gate fixture. This change must be refused.
