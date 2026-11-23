@@ -20,8 +20,8 @@ Name what stays here and is available to use, linking any Piece that has a file.
 
 ## Offers
 
-Say what someone can do freely here because of what the Place holds.
+Say what this Place makes available, and to whom.
 
 ## Withheld
 
-Say what the Place keeps out of reach and what someone must do or give up to reach it.
+Name what the Place keeps out of reach and what someone must visibly do or give up to reach it.

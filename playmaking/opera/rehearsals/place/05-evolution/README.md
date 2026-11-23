@@ -14,22 +14,10 @@ Varying one sentence at a time on [place-building-entrance.md](../02-company/pla
 
 ---
 
-## 2. Smallest Proposed Edits to `references/place.md`
+## 2. Changes to `references/place.md`
 
-1. **Distinguish `Offers` (*without cost*) from `Withheld` (*costs something real*):**
-   - *Evidence:* Under `Say what someone can do freely here because of what the Place holds`, the Playwright placed kicking out the wooden door wedge in `Offers` of [place-building-entrance.md](../02-company/place-building-entrance.md) while also placing pulling the wedge in `Withheld` #1 as the cost of speaking in private (played across [03](../04-runs/03-entrance-baseline-a.md)–[12](../04-runs/12-entrance-withheld-b.md)). Similarly, [variant-offers.md](../02-company/variant-offers.md) introduced *a dry ledge behind the stairwell turn* inside `Offers` (`09`–`10`) without naming the ledge in `Holds`.
-   - *Smallest edit to `## Offers` in `references/place.md`:* Replace `Say what someone can do freely here because of what the Place holds.` with:
-     ```markdown
-     Say what someone can do here without cost using only what the Place holds.
-     ```
-     (`without cost` restores the legacy distinction from `Withheld`, and `using only what the Place holds` keeps new surfaces or props anchored in `Holds`.)
-
-2. **Keep `Withheld` grounded in observable spatial costs rather than character psychology:**
-   - *Evidence:* Physical `Withheld` conditions—the one-way key-return box ([03](../04-runs/03-entrance-baseline-a.md)–[12](../04-runs/12-entrance-withheld-b.md) Turn 1), shutting out street listeners by killing the engine and pulling the wedge ([03](../04-runs/03-entrance-baseline-a.md)–[10](../04-runs/10-entrance-offers-b.md)), and the warden's penalty notice ([11](../04-runs/11-entrance-withheld-a.md)–[12](../04-runs/12-entrance-withheld-b.md))—forced visible stage choices. By contrast, `Withheld` clauses that named psychological defenses (*“give up busying their hands...”, “give up logistical rules or sideways jokes”* in [place-mothers-flat.md](../02-company/place-mothers-flat.md) and [place-building-entrance.md](../02-company/place-building-entrance.md)) nudged performers into explaining their own Shadows aloud ([02-flat-b](../04-runs/02-flat-b.md) Turns 6 & 9; [03-entrance-baseline-a](../04-runs/03-entrance-baseline-a.md) Turn 9; [06-entrance-shown-b](../04-runs/06-entrance-shown-b.md) Turn 7).
-   - *Smallest edit to `## Withheld` in `references/place.md`:* Append one sentence:
-     ```markdown
-     Say what the Place keeps out of reach and what someone must do or give up in the space to reach it. Do not state what a Persona thinks or feels.
-     ```
+- **Offers:** Say what this Place makes available, and to whom. The doorway wedge makes privacy possible, while gaining it costs the siblings an open exit. The ledge variant introduced both a surface and an option. KAIWorlds also uses Offers for encounters, viewpoints, and role-specific opportunities. [The Allotment Path](https://github.com/ChBrain/KAIWorlds/blob/95be8a21398815f4890e5c5ee161a2373c371fa7/allotment/place_the_path.md) · [The Meeting Room](https://github.com/ChBrain/KAIWorlds/blob/95be8a21398815f4890e5c5ee161a2373c371fa7/misfits/place_the_meeting_room.md)
+- **Withheld:** Name what the Place keeps out of reach and what someone must visibly do or give up to reach it. The shut door and the parking ticket gave the cast something visible to act on. [Withheld A](../04-runs/11-entrance-withheld-a.md) · [Withheld B](../04-runs/12-entrance-withheld-b.md)
 
 ---
 
