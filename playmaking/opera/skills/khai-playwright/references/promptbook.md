@@ -10,5 +10,5 @@ Each of the five chapters has a fixed job:
 - [Knowledge](knowledge.md)
 - [System](system.md)
 
-Use those headings in order. Write only the instructions the Director and cast need to stage this Play.
+Use those headings in order. Write only the conditions needed for the Human’s intended effect. Leave a HACKS chapter empty if it adds nothing.
 Write each instruction so the Director and cast can act on it without looking up another production.
