@@ -6,6 +6,16 @@ Can the Playwright take a desired effect from the human and find the HACKS condi
 
 The Promptbook works on its own. The Play and Company files carry the people, objects, history, and circumstances. The Playwright writes the conditions for this Play. The Director stages and observes from outside the fiction. The Personas act inside it.
 
+Each chapter has a job:
+
+| Chapter | What it sets |
+| --- | --- |
+| Human | Where the human stands in relation to the Play and what they can decide or do. |
+| Agent | How the agent is placed in the world, including the Persona it inhabits and what it can observe and do. |
+| Collaboration | The physics of interaction. How a human move affects an agent, and how one agent's move affects another. |
+| Knowledge | How knowledge works in this world, including what counts as evidence and how something becomes known. |
+| System | The Play's operating rules and quirks. For example, “Show, don't tell” or “Never ask the Human for a move.” |
+
 The following is the project owner's example of how HACKS can work. It is authoring material for this rehearsal.
 
 > **Human:** Sets the Scene. Provides Conditions. Can join, but only if stating it explicit.
