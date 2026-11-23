@@ -1,7 +1,7 @@
 # Rehearsal Setup — Director creative boundary
 
 ## Purpose
-Test whether the Director can creatively stage authored material without changing its intrinsic dynamics. This is a **plan**, not evidence that a rehearsal has run.
+Test whether the Director can creatively stage authored material without changing its intrinsic dynamics. This setup defines the rehearsal. Observations from the exploratory pilot are recorded separately.
 
 ## Roles and boundary
 - **Playwright** authors Personas, Pieces, Places, Plays, and their intrinsic properties and dynamics.
@@ -26,6 +26,15 @@ Candidate clarification (experimental, **not** an installed skill change):
 5. **Creative range:** Check that B still produces meaningfully distinct staging opportunities rather than becoming inert.
 
 Avoid forcing a particular outcome or using a rule that every conflict must escalate. Judge only evidence visible in the transcripts and source comparisons.
+
+## Independent delayed-reveal rerun
+
+Start a new session from this setup and the authored input files. Save the staging logs and initial observations before opening the [pilot record](../03-observations/delayed-reveal-pilot.md). Keep the pilot data, prior evaluations, and the other condition out of each Director's and performer's context.
+
+1. Choose at least three authored openings outside the pilot scene from *Mother’s Painting*. Use identical authored material, performer briefs, opening beats and available cue within each A/B pair. Give the cue to the Director only. Select an offstage event that can naturally create pressure once a performer has made an initial choice, without supplying an answer to their problem.
+2. Alternate which condition runs first across pairs. Use fresh Director and performer contexts for each run, with at least two runs of each condition per opening. Give the performers only their permitted authored material and what they could have perceived through that turn. The Director can introduce the cue after the opening beats, later, or leave it unused. Keep the same turn limit across paired runs.
+3. Record when the cue was first available to the Director, whether and when it reached each performer, and the first observable response. Record any Director-authored change to an established property, motive, or history, or any Director-supplied performer response, citing the exact turn. Log claims made by a performer as claims until the scene establishes them. An unresolved ending remains valid.
+4. Compare timing, authored-material fidelity, and performer agency across openings. A timing preference alone is a staging observation. Evaluate a change in fidelity from documented boundary crossings or their absence, and report ambiguity or scene-specific variation.
 
 ## SCORE outputs
 - `01-setup/`: this protocol, predeclared expectations and exact conditions.
