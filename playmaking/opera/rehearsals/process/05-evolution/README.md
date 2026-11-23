@@ -14,32 +14,10 @@ Across [01-authored-a](../04-runs/01-authored-a.md)–[04-variant-b](../04-runs/
 
 ---
 
-## 2. Proposed Minimal Edits to `references/process.md`
+## 2. Changes to `references/process.md`
 
-Current [references/process.md](../../../skills/khai-playwright/references/process.md):
-```markdown
-## Initiated by
-
-Name the condition that makes the Process start once it is met.
-
-## Direction
-
-Say where the Process moves once it starts.
-
-## Lever
-
-Name what drives it and what resists that movement.
-
-## Echo
-
-Say what has changed in the world when the Process has run.
-```
-
-Proposed two-line tightening:
-- **`Initiated by`:** `Name the observable condition that makes the Process start once it is met.`
-  - *Evidence:* Making both the baseline ([process-water-fetching.md](../02-company/process-water-fetching.md#L13)) and variant ([process-water-fetching-variant.md](../02-company/process-water-fetching-variant.md#L13)) thresholds strictly observable let isolated Directors keep Beat 1 idle in [03](../04-runs/03-variant-a.md) and [04](../04-runs/04-variant-b.md) and fire Beat 2 on physical contact without exposing internal rules to the performer.
-- **`Lever`:** `Name what drives it, what resists or slows it, and what stops it if anything can.`
-  - *Evidence:* `references/process.md` currently asks what starts the Process (`Initiated by`), what drives and resists it (`Lever`), and what remains when it has run (`Echo`), without asking what *stops* it. In [process-water-fetching.md](../02-company/process-water-fetching.md#L29), the Playwright had to append *"until `persona-master.md`'s spoken dismissing word severs the compulsion completely"* onto the end of `Resisted by` alongside temporary one-trip checks, and reinforce that distinction in [play.md](../02-company/play.md#L20-L28) and [promptbook.md](../02-company/promptbook.md#L38-L39). Naming stop conditions explicitly inside `Lever` distinguishes temporary friction (delaying one cycle) from termination without adding a seventh heading.
+- **`Initiated by`:** Name the condition that starts the Process and how whoever runs it can tell it has been met. In both variants, the Director could hold the Process idle until the Apprentice made contact. The Apprentice only saw that the broom stayed still. [Variant A](../04-runs/03-variant-a.md) · [Variant B](../04-runs/04-variant-b.md)
+- **`Lever`:** Name what drives it, what can slow it, and what can stop it, if anything. Bracing the door checked one trip. The Master's dismissing word ended the fetching. [Water-Fetching](../02-company/process-water-fetching.md#L26)
 
 ---
 

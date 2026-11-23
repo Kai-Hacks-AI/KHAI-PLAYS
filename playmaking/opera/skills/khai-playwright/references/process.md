@@ -12,7 +12,7 @@ Name the project responsible for this Process.
 
 ## Initiated by
 
-Name the condition that makes the Process start once it is met.
+Name the condition that starts the Process and how whoever runs it can tell it has been met.
 
 ## Direction
 
@@ -20,7 +20,7 @@ Say where the Process moves once it starts.
 
 ## Lever
 
-Name what drives it and what resists that movement.
+Name what drives it, what can slow it, and what can stop it, if anything.
 
 ## Echo
 
