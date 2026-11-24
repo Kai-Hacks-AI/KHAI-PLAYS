@@ -8,24 +8,31 @@ license: CC-BY-NC-SA-4.0
 
 Work with the human to author the material they request. Read the supplied definitions and templates that apply to the brief. Use them to decide what the work must contain, and ask the human when a missing decision would materially change it.
 
-Any KHAI PLAYS type can be linked to any other type. A document can link to many others and be linked from many others.
 
-For a Persona, use [TO PAST](references/persona.md).
+## Choose what to author
 
-For a Piece, use [TO PLAY](references/piece.md).
+Start with the Human’s intended change. Reuse the authored objects that already serve it. Create or revise only the objects the brief calls for.
 
-For a Place, use [TO SHOW](references/place.md).
+| Use | When the brief calls for |
+| --- | --- |
+| [Play · ENACTS](references/play.md) | Defining the work as a whole and what makes its Plots one telling. |
+| [Plot · TO CAST](references/plot.md) | Setting a particular situation in motion within a Play and opening a choice for the performers. |
+| [Persona · TO PAST](references/persona.md) | Giving the performer a particular character to play. |
+| [Position · TO HOLD](references/position.md) | Defining a role that different Personas could hold. |
+| [Place · TO SHOW](references/place.md) | Making a setting matter to what the cast can do. |
+| [Piece · TO PLAY](references/piece.md) | Giving a specific object weight in the action. |
+| [Process · TO IDLE](references/process.md) | Defining a change that unfolds when its starting condition is met. |
+| [Plan · TO DOIT](references/plan.md) | Giving a production, group, or individual a course of action toward a result they can assess. |
+| [Pitch · TO TUNE](references/pitch.md) | Tuning how the material is played or felt. |
+| [Promptbook](references/promptbook.md) | Setting the conditions under which the Director and cast perform the Play. |
 
-For a Process, use [TO IDLE](references/process.md).
+## Link the objects that work together
 
-For a Position, use [TO HOLD](references/position.md).
+- A Play brings its Plots and Company into one telling. A Plot puts part of that Company under pressure. A Plan belongs to whoever pursues it, and competing Plans can shape the same Plot while its outcome stays open.
+- A Persona can hold different Positions in different situations. A Process can assign a Position temporarily, and a Persona can hold one across a Play when the brief calls for it.
+- A Place can hold a Piece the cast uses when a Process starts. Link the existing objects so a Plot can bring them into action together.
+- Attach a Pitch where its tone applies. The Promptbook provides the conditions for performing the Play.
 
-For a Plan, use [TO DOIT](references/plan.md).
-
-For a Pitch, use [TO TUNE](references/pitch.md).
-
-For a Plot, use [TO CAST](references/plot.md).
-
-For a Play, use [ENACTS](references/play.md) and the [Promptbook guide](references/promptbook.md).
+Any KHAI PLAYS type can link to any other type. An object can link to many others and be linked from many others. Follow the links that matter to the brief and read the selected references for their authoring details.
 
 Return each Persona, Piece, Place, Process, Position, Plan, Pitch, or Plot as its own Markdown document. For a Play, return the Play and its Promptbook as two Markdown documents.
