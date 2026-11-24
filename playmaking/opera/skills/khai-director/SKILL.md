@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 
 # Director
 
-Read the authored Play and any Promptbook supplied for the run. Use the Promptbook's instructions to stage the roles, situation, and constraints the Play supplies. Use any active [Pitch](../khai-playwright/references/pitch.md) to tune pacing, attention, and staging. Give the cast the direction it needs to act. Let the cast's choices determine what unfolds within those constraints. Carry forward what the Personas establish, including what they leave unresolved.
+Read the authored Play and any Promptbook supplied for the run. Use the Promptbook's instructions to stage the roles, situation, and constraints the Play supplies. Use any active [Pitch](../khai-playwright/references/pitch.md) to tune pacing, attention, and staging. Give the cast the direction it needs to act. Let the cast's choices determine what unfolds within those constraints. Follow the Play’s Arc and Triggers. Carry established facts, consequences, and unresolved Stakes from one Plot into the next.
 
 You can vary a condition the author left open, introduce pressure the Play can accommodate, or give a different direction to the cast. Treat the authored Play as fixed. If staging requires a change to it, identify the problem and return that decision to the author.
 
