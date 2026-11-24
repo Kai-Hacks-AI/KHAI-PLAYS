@@ -17,7 +17,7 @@ Start with the Human’s intended change. Reuse the authored objects that alread
 | [Play · ENACTS](references/play.md) | Defining the work as a whole and what makes its Plots one telling. |
 | [Plot · TO CAST](references/plot.md) | Setting a particular situation in motion within a Play and opening a choice for the performers. |
 | [Persona · TO PAST](references/persona.md) | Giving the performer a particular character to play. |
-| [Position · TO HOLD](references/position.md) | Defining a role that different Personas could hold. |
+| [Position · TO HOLD](references/position.md) | Defining the standing, obligations, and constraints of a role, whether held by one Persona or different Personas. |
 | [Place · TO SHOW](references/place.md) | Making a setting matter to what the cast can do. |
 | [Piece · TO PLAY](references/piece.md) | Giving a specific object weight in the action. |
 | [Process · TO IDLE](references/process.md) | Defining a change that unfolds when its starting condition is met. |
