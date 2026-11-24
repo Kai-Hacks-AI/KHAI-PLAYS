@@ -20,7 +20,7 @@ Name what each Persona openly drives toward and where those efforts collide.
 
 ## Stage
 
-Place the Personas and their Pieces, and say who enters with what.
+Place the Personas and their Pieces, and say who enters with what. Specify the order of fixed events when it matters.
 
 ## Tension
 

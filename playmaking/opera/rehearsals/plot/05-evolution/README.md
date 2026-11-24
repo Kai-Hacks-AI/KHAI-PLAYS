@@ -14,12 +14,9 @@ Holding `Taxonomy`, `Owner`, `Cue`, `Action`, and `Tension` byte-for-byte fixed 
 
 ---
 
-## 2. Proposed Refinements to `references/plot.md`
+## 2. Refinements to `references/plot.md`
 
-1. **`## Stage` — explicitly include the order of staged arrivals or turns when sequence matters:**
-   - *Evidence:* `references/plot.md` currently prompts `## Stage` as *"Place the Personas and their Pieces, and say who enters with what."* That covers static `t = 0` placement and character entrances (Samuel and Tomi Okafor arriving with cane, flowers, and program), but leaves implicit how `Stage` orders multiple staged triggers or non-entrance events like Theo’s hem check ([authoring-note.md](../02-company/authoring-note.md#L14-L15)).
-   - *Smallest edit (`## Stage`):*
-     > `Place the Personas and their Pieces, say who enters with what, and set the order of any staged arrivals or turns.`
+1. **`## Stage` now names the order of fixed events when it matters.** The rehearsal staged the family’s entrance and the discovery in two orders. An in-world Plan could instead give Theo a check he means to finish before the family enters. An early arrival can overtake that Plan onstage.
 
 2. **`## Tension` — keep private stakes anchored at opening rather than mid-scene discoveries:**
    - *Evidence:* Because [03-after-entrance-a](../04-runs/03-after-entrance-a.md) and [04-after-entrance-b](../04-runs/04-after-entrance-b.md) played `Turns 1–2` *before* the **Discovery Cue**, placing **`MARIAM OKAFOR`** inside `Tension` would have leaked post-check knowledge into pre-check play ([authoring-note.md](../02-company/authoring-note.md#L16-L17)). Grounding `Tension` in what Personas already carry privately when the scene opens (Theo’s solo rush-proof sign-off; Marta’s morning promise to Samuel) kept `Turns 1–2` genuinely unspoiled while supercharging Discovery once it arrived.
