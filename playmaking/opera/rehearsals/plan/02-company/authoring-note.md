@@ -1,0 +1,38 @@
+# Authoring Note — *The Last Airing*
+
+## 1. Key Authoring & World Choices
+
+- **Station, Cutoff, and Single-Room Acoustic Pressure (`place-studio.md`, `process-final-broadcast.md`)**:
+  - Set in **Studio A of WKRB-LP 89.9 FM** (Millgate), a single-room storefront combo booth whose transmitter rack is slaved to a master-clock license-cutoff relay at `00:00:00` sharp.
+  - Closed modern "escape hatches" cleanly in the Place and Pieces: studio broadband was disconnected yesterday for move-out, the broadcast phone-patch hybrid burned out last winter (leaving a screening handset only), Marta calls at `23:50:00` from a Canal Street payphone as her coin drops, and `Deck B` requires a hard `15-second` USB directory scan + PFL check from physical handoff (`23:59:00` arrival -> `23:59:15` earliest clean `Deck B` audio).
+  - Making Studio A an **un-partitioned single-room booth** gives physical actions (`Action` / `Tell`) real radio stakes: once `Mic 1` or `Mic 2` is hot, any spoken dispute or `23:59:00` door commotion bleeds straight onto `89.9 FM` unless handled via silent hand cues or potted down.
+
+- **Two Pieces, Same Four `:30` Blocks, Opposite Stakes (`piece-printed-message.md`, `piece-recording.md`)**:
+  - Both Pieces carry the exact same `2:00` farewell (`"STILL ON THE BLOCK"`), structured into four `:30` grease-penciled blocks (`Salutation`, `Buyout Account ("we on Water Street")`, `St. Jude's & Morales Hardware Mutual-Aid Handoff`, and `Closing Roll / "The tower goes dark; the block stays lit"`).
+  - Because Block 3 (`1:00–1:30`) holds concrete street/time handoff details that listeners copy by hand and Block 4 (`1:30–2:00`) holds the builder roll and Marta's closing line, rushing under `1:50` slurs intelligibility and starting `Deck B` at `23:59:15` severs the message before Block 3 even finishes. The crew faces a true tragic/operational bind between **completeness of what gets heard** and **authenticity of whose voice goes out**.
+
+- **Three Distinct Stakes & Reusable Positions (`persona-*.md`, `position-*.md`)**:
+  - **Julian Mercer (`Station Host`)**: Wants the complete `2:00` text delivered cleanly in a steady broadcast voice, while privately clinging to anchoring the historic sign-off himself despite having quietly moved across the river six months ago—making Water Street's first-person `"we"` an uneasy claim unless he explicitly attributes Marta and the tenants.
+  - **Nadia Okafor (`Broadcast Producer`)**: Co-drafted the text on Water Street and personally promised Marta Vega and twelve displaced tenants that WKRB-LP would close in *their* voices rather than booth polish; under pressure she stalls cutting community contributors past safe clock margin.
+  - **Devon Cho (`Sound Engineer`)**: Built the console eleven years ago with Marta's late brother and unbolts it tomorrow morning; refuses to let the signal die in dead air, un-checked levels, or a mid-sentence midnight cutoff, using rigid console procedure as armor against owning whose voice his hand shuts out.
+  - All three `Position` files (`TO HOLD`) contain **zero Persona or guest proper names**, grounding institutional authority (`Has`), standing shift duties (`Orders`), structural blinders (`Loses`), and occupational pull (`Drives`) so any Persona could hold them.
+
+- **Pre-`23:50` Horizon & Paired `TO DOIT` Plans (`plan-read-live.md`, `plan-hold-for-recording.md`)**:
+  - Opened at `23:49:00` with Marta expected ahead of the `23:57:30` closing window so **no delay exists or is suspected yet**. Both Piece `Yearbook` timelines stop at `23:30` and `22:45`.
+  - Both Plans share **identical H1, `Taxonomy`, `Owner`, `Direction`, and five observable `Targets`**—preventing any hint of a twin Plan when staged as `plan.md` while evaluating both runs against the same post-midnight broadcast and archive handoff standard (PFL verification, all four `:30` blocks intelligible before `00:00:00`, explicit vocal or spoken attribution of Marta/Water Street, clean continuity without dead air, hot-mic dispute, or mid-sentence relay cutoff, and placing both Pieces into the Water Street / St. Jude's archive envelope).
+  - Under **`plan-read-live.md`**, the `23:49:00` beat puts the printed script on Julian's stand and calibrates `Mic 1` immediately, locking live studio delivery unless external media is verified by `23:55:00` without pre-scripting any response to a `23:59:00` late arrival.
+  - Under **`plan-hold-for-recording.md`**, the `23:49:00` beat arms `Deck B`, keeps Julian's stand empty and `Mic 1` cold, and vests **sole authority to call the switch** in `Broadcast Producer` (Nadia) by `23:57:30` (`23:58:00` hard runtime floor)—placing the switch call directly in the hands of the character whose `Shadow` resists making it.
+
+## 2. Seams & Tensions Observed Authoring `TO DOIT` Alongside OPERA
+
+1. **Dual `## Orders` Headings (`Position — TO HOLD` vs. `Plan — TO DOIT`)**:
+   - Both `Position` and `Plan` define an `## Orders` section. Without care, authors either duplicate standing booth duties in both files or leak tonight's contingent plot plan into a reusable `Position`. Separating **standing institutional obligations of the chair** (`Position.Orders`: level-check every channel, keep dead air off carrier, hold rundown commitments) from **time-stamped tactical assignments for this operation** (`Plan.Orders`: who holds the script before `23:50:00`, who owns the `23:57:30` switch call) kept `Position` cleanly reusable and gave `Plan` sharp operational teeth.
+
+2. **World Physics (`Place.Withheld` / `Process.Lever`) vs. Procedural Limits (`Plan.Implementation`)**:
+   - `Plan.Implementation` asks for *"the conditions and limits that shape how the work can be done."* In a multi-Plan rehearsal where Company files stay fixed, true physical invariants (`00:00:00` relay cutoff, `2:00` runtime, `15s` USB scan, single-room mic bleed) **must** live in `Place`, `Piece`, and `Process`—otherwise swapping `plan.md` would silently alter the physics of the room. `Plan.Implementation` works best when it translates those shared world invariants into **approach-specific operational guardrails** (e.g., a `23:55:00` external-media verification lock in `plan-read-live.md` vs. single-caller switch gatekeeping up to `23:57:30` in `plan-hold-for-recording.md`).
+
+3. **Normative Authority of an In-World `Plan` After a Shock (`Promptbook.System`)**:
+   - `TO DOIT` explicitly supports writing *"for a production or for people acting inside a Play."* When given to AI role-agents *acting inside a Play* whose premise gets upended at `23:50:00`, `Plan.Orders` and `Plan.Implementation` sit on a knife-edge: treated as hard system constraints, they flatten human agency into mechanical compliance; treated as optional flavor, they blur the difference between competing Plans. Explicitly grounding the Plan in `Promptbook.System` as the crew's **binding starting agreement enforced through `Position` gates (`Has`/`Loses`) and judged by `Targets` at `00:00:00`** preserves real choice (compliance, negotiation, stalling, or positional defiance) while keeping the Plan consequential in every beat.
+
+4. **Shared `Targets` vs. Approach-Specific Steps**:
+   - Holding `Direction` and `Targets` byte-for-byte identical across two opposing `Plans` forces `Targets` to measure **observable end-states on air and at the console** rather than workflow milestones (e.g., *"prepare the host before 23:50"* belongs in `Orders`, not `Targets`, because `plan-hold-for-recording.md` deliberately withholds the script before `23:50`). Designing `Targets` strictly around observable broadcast results makes `[x]`, `[F]`, `[W]`, and `[-]` directly comparable across stagings of different Plans.
