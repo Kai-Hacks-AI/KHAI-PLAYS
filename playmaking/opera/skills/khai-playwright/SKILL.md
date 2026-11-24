@@ -8,6 +8,8 @@ license: CC-BY-NC-SA-4.0
 
 Work with the human to author the material they request. Read the supplied definitions and templates that apply to the brief. Use them to decide what the work must contain, and ask the human when a missing decision would materially change it.
 
+Any KHAI PLAYS type can be linked to any other type. A document can link to many others and be linked from many others.
+
 For a Persona, use [TO PAST](references/persona.md).
 
 For a Piece, use [TO PLAY](references/piece.md).

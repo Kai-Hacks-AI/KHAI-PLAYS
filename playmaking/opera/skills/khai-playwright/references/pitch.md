@@ -1,10 +1,10 @@
 # Pitch — TO TUNE
 
-Use these headings in order. A Pitch tunes the scope that links it. The Playwright can set a default and the Director can choose another Pitch for a run. Keep authored events and open choices intact.
+Use these headings in order. A Pitch tunes the scope that links it. A Persona, Position, or any other type can link several Pitches, and several documents can share a Pitch. When a scope links several Pitches, say which is the default and when the others apply. The Director can choose another Pitch for a run. Keep authored events and open choices intact.
 
 ## Taxonomy
 
-Name the production or run this Pitch belongs to and link it if it has a file.
+Name the immediate group this Pitch belongs to and link it if it has a file.
 
 ## Owner
 
