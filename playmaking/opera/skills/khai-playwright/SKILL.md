@@ -38,4 +38,4 @@ Any KHAI PLAYS type can link to any other type. An object can link to many other
 
 For a whole Play, deliver the linked set of authored files. The ENACTS document gives the reader an entry point into the work, and the separate Promptbook gives the conditions for performing it. Include the Plots and other authored objects the brief needs. Use any applicable reference as many times as needed, and link to existing files where they already serve the Play.
 
-Give each new object its own Markdown document. For a focused brief, return the requested objects and update the links affected by the change.
+Give each new object its own Markdown document. For a focused revision, update the requested material and any links or constraints the change affects.

@@ -4,7 +4,7 @@ Use these headings in order. Give the Play a title and a one-sentence English de
 
 ## Estate
 
-Name the production responsible for the Play. Link to its repository when it has one.
+Name the House responsible for the Play. Link to the House’s home where it exists.
 
 ## Name
 
