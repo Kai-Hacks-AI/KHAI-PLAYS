@@ -6,11 +6,10 @@ Smallest proposed refinements to [references/pitch.md](../../../skills/khai-play
 
 ## 1. Keep the Six `TO TUNE` Chapters (`Taxonomy`, `Owner`, `Tenor`, `Undertow`, `Nerve`, `Echo`)
 
-Swapping only the single sentence under `Tenor` between [pitch-dry-comedy.md](../02-company/pitch-dry-comedy.md) and [pitch-quiet-wonder.md](../02-company/pitch-quiet-wonder.md) while holding `Taxonomy`, `Owner`, `Undertow`, `Nerve`, and `Echo` byte-for-byte identical showed each expressive chapter doing distinct work without altering authored events or closing open choices:
-- **`Tenor`** cleanly separated how `"Is the giant coming?"` landed—deadpan freight/clearance logistics and chalk-line foot-safety warnings in [01](../04-runs/01-dry-comedy-a.md)–[02](../04-runs/02-dry-comedy-b.md) versus plain workshop truth, unhurried eye contact or silence, and shared stillness at the chalk edge in [03](../04-runs/03-quiet-wonder-a.md)–[04](../04-runs/04-quiet-wonder-b.md).
-- **`Undertow`** kept tired hands, guarded craft pride, and close chalk-line scrutiny pressing beneath both registers so neither `Dry comedy` collapsed into weightless wisecracks nor `Quiet wonder` drifted into sentimentality.
-- **`Nerve`** converted small cadence disagreements across the wooden carry-welt and the pass beside the off-line fountain plinth into live mechanical suspense on every step.
-- **`Echo`** anchored all four Curtain images in the physical sight of two volunteers holding one oversized shoe upright across bare stone.
+Only `Tenor` changed between [dry comedy](../02-company/pitch-dry-comedy.md) and [quiet wonder](../02-company/pitch-quiet-wonder.md). Both dry-comedy runs used freight logistics and chalk-line warnings. Both quiet-wonder runs gave the child room at the chalk through a look, a nod, or silence. The shoe made it past the fountain in all four runs.
+
+`Taxonomy`, `Owner`, `Undertow`, `Nerve`, and `Echo` were held fixed. The runs show how two Tenors play against the same material. Varying the other expressive chapters or applying different Pitches to individual Personas or Positions remains open.
+
 
 ---
 
@@ -32,5 +31,4 @@ Swapping only the single sentence under `Tenor` between [pitch-dry-comedy.md](..
 
 1. **Protect wordless action and silence in `Promptbook -> Agent / System` so `Pitch` tunes non-verbal beats too:**
    - *Evidence:* Conversational model priors push performers to answer every cue verbally—turning `Dry comedy` into quip exchanges or `Quiet wonder` into gentle speeches ([authoring-note.md](../02-company/authoring-note.md#L29-L30)). Explicitly putting speaking, acting without words, and staying silent on equal footing in [promptbook.md](../02-company/promptbook.md#L12) and [promptbook.md](../02-company/promptbook.md#L32) let `Pitch` tune *how* silence landed onstage—producing Tomas’s silent hip-brace and sightline screen in [01](../04-runs/01-dry-comedy-a.md#L17) and [02](../04-runs/02-dry-comedy-b.md#L17), his silent grave nod in [03](../04-runs/03-quiet-wonder-a.md#L17), and three silent turns out of five (including Maren’s silent `Turn 4`) in [04](../04-runs/04-quiet-wonder-b.md#L19).
-2. **Update `khai-director/SKILL.md` to reference `Pitch` (`TO TUNE`):**
-   - *Alignment note:* [khai-director/SKILL.md](../../../skills/khai-director/SKILL.md) currently names `Play`, `Promptbook`, and `Personas`, without mentioning `Pitch`. Adding one sentence that the Director applies any active `Pitch` (choosing another when appropriate) to tune register across speech, physical action, silence, and stage narration while keeping authored events and open choices intact aligns `khai-director` with [references/pitch.md](../../../skills/khai-playwright/references/pitch.md#L3).
+2. **Let the Director use the active Pitch.** The [Director skill](../../../skills/khai-director/SKILL.md) now uses Pitch to tune pacing, attention, and staging. In both quiet-wonder runs the Director let the child remain at the chalk at curtain. In both dry-comedy runs the child stepped back after a warning. The cue and the authored opening stayed fixed.
