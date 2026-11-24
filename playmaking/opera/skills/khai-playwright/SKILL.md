@@ -8,7 +8,6 @@ license: CC-BY-NC-SA-4.0
 
 Work with the human to author the material they request. Read the supplied definitions and templates that apply to the brief. Use them to decide what the work must contain, and ask the human when a missing decision would materially change it.
 
-
 ## Choose what to author
 
 Start with the Human’s intended change. Reuse the authored objects that already serve it. Create or revise only the objects the brief calls for.
@@ -35,4 +34,8 @@ Start with the Human’s intended change. Reuse the authored objects that alread
 
 Any KHAI PLAYS type can link to any other type. An object can link to many others and be linked from many others. Follow the links that matter to the brief and read the selected references for their authoring details.
 
-Return each Persona, Piece, Place, Process, Position, Plan, Pitch, or Plot as its own Markdown document. For a Play, return the Play and its Promptbook as two Markdown documents.
+## Deliver the work
+
+For a whole Play, deliver the linked set of authored files. The ENACTS document gives the reader an entry point into the work, and the separate Promptbook gives the conditions for performing it. Include the Plots and other authored objects the brief needs. Use any applicable reference as many times as needed, and link to existing files where they already serve the Play.
+
+Give each new object its own Markdown document. For a focused brief, return the requested objects and update the links affected by the change.
