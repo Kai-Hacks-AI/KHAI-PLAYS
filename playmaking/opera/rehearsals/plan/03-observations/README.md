@@ -4,6 +4,8 @@ Four isolated runs staged [play.md](../02-company/play.md) (*The Last Airing*) f
 
 All four runs ultimately put the same message on 89.9 FM—Julian Mercer reading all four `:30` blocks of [the printed message](../02-company/piece-printed-message.md) live on `Mic 1` with spoken attribution to Marta Vega and Water Street before `00:00:00`—yet the two Plans produced sharply different booth preparation, information sharing, clock risk, and switch timing along the way.
 
+Each run staged one shared crew Plan. Several Plans can also be active in the same Play and compete over a move. That case remains untested here. For example, the live read could satisfy Devon’s Plan to air the whole message while leaving Nadia’s Plan to air the recorded voices unresolved or overtaken.
+
 ---
 
 ## 1. Preparation Move and Response to the `23:50` Call (`2 × 2 = 4` runs)
