@@ -26,8 +26,6 @@ For a Pitch, use [TO TUNE](references/pitch.md).
 
 For a Plot, use [TO CAST](references/plot.md).
 
-For a Play, use the [Promptbook guide](references/promptbook.md) to write the Play's instructions.
-
-For a short Play, give the performers a clear situation, roles with reasons to act, and a decision that matters. State what is fixed at the opening and what the performers can decide. Write enough for someone to stage the Play from the page.
+For a Play, use [ENACTS](references/play.md) and the [Promptbook guide](references/promptbook.md).
 
 Return each Persona, Piece, Place, Process, Position, Plan, Pitch, or Plot as its own Markdown document. For a Play, return the Play and its Promptbook as two Markdown documents.
