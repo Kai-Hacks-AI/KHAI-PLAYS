@@ -16,10 +16,15 @@ Model how a particular group interprets a cue as gendered and how that interpret
 
 The OPERA repertoire review found an earlier rehearsal of gendered standing in a harbor office. The present Pattern's warrant is the external research above. Its rehearsal tests a written cue that changes a preliminary decision in a hiring room.
 
+### Evidence for the offered Positions
+
+- [Kate Manne, Down Girl (2017), publisher abstract](https://doi.org/10.1093/oso/9780190604981.001.0001) describes expectations of giving and a corresponding sense of entitlement. [Expected to Accommodate](position-expected-to-accommodate.md) turns that into a playable demand and a cost of refusal. The specific responses in the card are theatrical encodings.
+- [Cecilia Ridgeway, Gender, Status, and Leadership (2001), abstract](https://www.eui.eu/Documents/MWP/ProgramActivities/2017-2018/master-classes/Ridgeway-Gender-status-leadership.pdf) reviews how gender status beliefs can influence perceived competence, influence, and leadership in task groups. [Expected to Lead](position-expected-to-lead.md) turns that opening into an opportunity and a burden. The judgment for stepping aside is an authored possibility, grounded locally in the Play.
+
 ## Restrictions
 
 Ground each reading in the setting and the people or institution doing the reading. The application study warrants a cue with consequences in a specific evaluation setting. It gives no universal treatment rule for other roles or institutions. Gender salience, disagreement between readers, and interactions with other forms of standing remain local authoring decisions.
 
 ## Encoding
 
-[Inventory](inventory.md) maps the researched mechanisms to possible KHAI objects. [Pattern](pattern.md) turns them into a contract for the Playwright. Its offered [Position](position-attributed-standing.md) specifies the kind of standing the work needs to instantiate locally.
+[Inventory](inventory.md) maps the researched mechanisms to possible KHAI objects. [Pattern](pattern.md) turns them into a contract for the Playwright. Its two offered Positions carry playable pressures, and the Play specifies how the local readers enforce them.
