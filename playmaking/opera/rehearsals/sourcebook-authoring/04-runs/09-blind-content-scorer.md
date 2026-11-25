@@ -17,3 +17,8 @@ Evaluated in the predeclared mixed order `[03, 05, 01, 08, 06, 02, 04, 07]` (`bl
 
 1. **`3-Limit` (`Explicit Evidence Limit`):** Both the independent blind scorer and the second independent scoring pass agreed `8 / 8` on the primary threshold: `1` when the authored record states an explicit boundary on what the supplied sources demonstrate or leave untested (`blind-01`, `blind-04`, `blind-05`, `blind-06`, `blind-08`), and `0` when the record states only normative usage guardrails (`blind-03`), theoretical design rationale without evidentiary limits (`blind-02`), or conditional future revisit triggers (`blind-07`).
 2. **`4-Encoding` (`Link to Exact Place`):** All eight records linked to the exact target files (`pitch.md` / `pitch-defaults.md` for Task 1; `promptbook.md` for Task 2), scoring `1 / 1` on the primary rubric. Under an anchor-strict sensitivity check requiring `#section` URL fragments (`#tenor`, `#standard-tenors`, `#agent`, `#knowledge`, `#system`), all four LORE records (`blind-01`, `blind-05`, `blind-06`, `blind-08`) included `#fragment` anchors (`4 / 4`), whereas `0 / 4` plain records (`blind-02`, `blind-03`, `blind-04`, `blind-07`) included `#fragment` anchors (`blind-02` and `blind-04` named `## Agent`, `## Knowledge`, `## System` in prose; `blind-03` and `blind-07` linked whole files).
+
+
+## Review adjudication
+
+`blind-05` (slot 06) also made one unsupported domain claim: explicit replacement prevented register bleed. The supplied runs establish a clean transition with the handoff in place. Whether explicit replacement prevented bleed was untested. Retain the original scorer output above and count the claim in the final tally. The completeness score stays 4/4 because the record explicitly states the evidence limit.

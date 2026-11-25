@@ -34,7 +34,7 @@ Unlabeled authored rationales (`blind-01`..`blind-08` = `[03, 05, 01, 08, 06, 02
 | `03` | Task 1, Rep 2 | **B** | `blind-01` | [03-t1-r2-b-author.md](../04-runs/03-t1-r2-b-author.md) | `1` | `1` | **`1`** | `1` `[1]` | **`4`** | **Yes** *(single-run legacy vs. imagined 4-Pitch setup & untested `Process`/`Plan`; no unverified derivation)* | `0` | **LORE** (`# Sourcebook:` + 4 chapters) |
 | `04` | Task 1, Rep 2 | **A** | `blind-07` | [04-t1-r2-a-author.md](../04-runs/04-t1-r2-a-author.md) | `1` | `1` | **`0`** | `1` `[0]` | **`3`** | **No** *(conditional revisit triggers; treats `"imagine..."` example as `"can coexist cleanly"`, `#L31`)* | `0` *(minor overstatement of `"imagine..."` example)* | Free-form (`# Decision:`) |
 | `05` | Task 2, Rep 1 | **A** | `blind-02` | [05-t2-r1-a-author.md](../04-runs/05-t2-r1-a-author.md) | `1` | `1` | **`0`** | `1` `[0]` | **`3`** | **No** *(contrasts Promptbook vs. implicit framing as rationale, states `0` evidence limits)* | `0` *(minor unqualified implicit-bleed claim, `#L29`)* | Free-form (`# Decision:`) |
-| `06` | Task 2, Rep 1 | **B** | `blind-05` | [06-t2-r1-b-author.md](../04-runs/06-t2-r1-b-author.md) | `1` | `1` | **`1`** | `1` `[1]` | **`4`** | **Yes** *(unmeasured implicit-append ablation, untested `Persona`/`Place`/`Piece` Pitches, 2-run `0%` bounds)* | **`1` meta-citation** (`sourcebook.md`’s LORE `reference.md` URL in `## Origin`, `#L23`) | **LORE** (`# Sourcebook —` + 4 chapters) |
+| `06` | Task 2, Rep 1 | **B** | `blind-05` | [06-t2-r1-b-author.md](../04-runs/06-t2-r1-b-author.md) | `1` | `1` | **`1`** | `1` `[1]` | **`4`** | **Yes** *(unmeasured implicit-append ablation, untested `Persona`/`Place`/`Piece` Pitches, 2-run `0%` bounds)* | **`1` causal overstatement** (handoff prevented bleed), plus **`1` meta-citation** (`sourcebook.md`’s LORE `reference.md` URL in `## Origin`, `#L23`) | **LORE** (`# Sourcebook —` + 4 chapters) |
 | `07` | Task 2, Rep 2 | **B** | `blind-08` | [07-t2-r2-b-author.md](../04-runs/07-t2-r2-b-author.md) | `1` | `1` | **`1`** | `1` `[1]` | **`4`** | **Yes** *(single `1 vs 1` pair, untested object-level & `>0%` mid-Plot shifts, `SKILL.md` vs. eviction)* | `0` | **LORE** (`# Sourcebook:` + 4 chapters) |
 | `08` | Task 2, Rep 2 | **A** | `blind-04` | [08-t2-r2-a-author.md](../04-runs/08-t2-r2-a-author.md) | `1` | `1` | **`1`** | `1` `[0]` | **`4`** | **Yes** *(notes neither variant linked `Persona`/`Place`/`Piece` Pitches in `#L53` & contrasts Stage Voice vs. Promptbook)* | `0` | Free-form (`# Decision:`) |
 
@@ -43,7 +43,7 @@ Unlabeled authored rationales (`blind-01`..`blind-08` = `[03, 05, 01, 08, 06, 02
 | Condition | Findability (`/4`) | Task 1 Scores (`/4`) | Task 2 Scores (`/4`) | All-Run Totals (`/4`) | **Median (`/4`)** | **Range** | Explicit Evidence Limit (`3-Limit`) | `#section` Encoding Anchors | Domain Unsupported Claims | Meta-Template Citation Leak |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **A — Plain rationale** | **`4 / 4`** | `3, 3` | `3, 4` | `3, 3, 3, 4` | **`3.0`** | `3–4` | **`1 / 4`** (`0/2` T1, `1/2` T2) | `0 / 4` | `0 / 4` | `0 / 4` |
-| **B — LORE (`sourcebook.md`)** | **`4 / 4`** | `4, 4` | `4, 4` | `4, 4, 4, 4` | **`4.0`** | `4–4` | **`4 / 4`** (`2/2` T1, `2/2` T2) | **`4 / 4`** | `0 / 4` | `1 / 4` (`06` `#L23`) |
+| **B — LORE (`sourcebook.md`)** | **`4 / 4`** | `4, 4` | `4, 4` | `4, 4, 4, 4` | **`4.0`** | `4–4` | **`4 / 4`** (`2/2` T1, `2/2` T2) | **`4 / 4`** | `1 / 4` | `1 / 4` (`06` `#L23`) |
 
 ---
 
@@ -60,3 +60,8 @@ Unlabeled authored rationales (`blind-01`..`blind-08` = `[03, 05, 01, 08, 06, 02
 3. **Formatting self-reveal & meta-citation leak in Condition B (`Slot 06`):**
    - Output formatting revealed the condition in **`8 / 8`** files (`# Sourcebook` + `Line of Work` / `Origin` / `Restrictions` / `Encoding` in all four Condition B runs vs. `# Decision:` + ADR headings in all four Condition A runs).
    - In [06-t2-r1-b-author.md](../04-runs/06-t2-r1-b-author.md#L23), the Condition B author copied [references/sourcebook.md](../../../references/sourcebook.md#L23)’s own provenance footer (`https://github.com/ChBrain/khai/blob/c8c56c7.../packages/khai-arch/architecture/reference.md`) as a fifth bullet under `## Origin`—citing the Sourcebook guide’s own warrant standard alongside *The Giant’s Shoe*’s staging sources.
+
+
+## Review correction
+
+[Slot 06](../04-runs/06-t2-r1-b-author.md#L25) describes explicit Pitch replacement as preventing bleed. The runs show a clean transition with the handoff in place. They did not compare that handoff with a version that omitted explicit replacement. Count this as one unsupported causal claim. The completeness score stays 4/4 because the author explicitly recorded the missing comparison, and unsupported claims are tracked separately.
