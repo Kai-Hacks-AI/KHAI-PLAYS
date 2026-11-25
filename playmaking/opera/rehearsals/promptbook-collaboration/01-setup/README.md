@@ -30,7 +30,7 @@ The following is the project owner's example of how HACKS can work. It is author
 
 ## Create
 
-Give a fresh authoring agent the [Playwright skill](../../../skills/khai-playwright/SKILL.md), its [Promptbook template](../../../skills/khai-playwright/references/promptbook.md) and chapter guides, the owner's example above, and the [Company fixture](../02-company/README.md).
+Give a fresh authoring agent the [Playwright skill](../../../skills/khai-playwright/SKILL.md), its [Promptbook template](../../../skills/khai-director/references/promptbook.md) and chapter guides, the owner's example above, and the [Company fixture](../02-company/README.md).
 
 > I want the siblings to keep the exchange over Mother's painting moving while I watch.
 
