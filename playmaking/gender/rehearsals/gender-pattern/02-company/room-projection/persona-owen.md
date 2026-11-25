@@ -10,7 +10,7 @@ KHAI PLAYS · Gender rehearsal.
 
 ## Projection
 
-Owen is a [man](../../../../position-male.md).
+Owen is a [man](../../../../position-male.md). He arrives as an equal coauthor, ready to discuss the residuals.
 
 ## Action
 
