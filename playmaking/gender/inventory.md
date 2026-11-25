@@ -13,4 +13,4 @@ This inventory records possibilities within the scope of the [Sourcebook](source
 | What a person tries to gain or keep under that reading | Plan | Theatrical possibility | Available when it serves the Play |
 | Register of attention or discomfort | Pitch | Theatrical possibility | Available when it serves the Play |
 
-The legacy paired Male and Female Positions are migration inputs. Local expressions can include presumed authority or pressure to accommodate where the Play grounds them. A reading can also be contested, ambiguous, or absent. Other KHAI types remain available where the material calls for them.
+Local expressions can include presumed authority or pressure to accommodate where the Play grounds them. A reading can also be contested, ambiguous, or absent. Other KHAI types remain available where the material calls for them.
