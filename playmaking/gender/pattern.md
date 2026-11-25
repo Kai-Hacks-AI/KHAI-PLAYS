@@ -10,7 +10,7 @@ Uses the [OPERA Dramaturgy contract](https://github.com/Kai-Hacks-AI/KHAI-PLAYS/
 
 [Gender](position-gender.md) is the anchor. The Pattern offers two playable Positions: [Female](position-female.md) and [Male](position-male.md).
 
-Link this Pattern from the Play. For each relevant Plot, link the chosen Position from the Persona's Projection and establish what the Persona projects into the room. Keep the projection available independently of who receives it. Author reception in the Play or Plot: people may notice it, read it differently, or miss it entirely. Where the Persona conceals a different reading, use Shadow for that concealed material. Link the authored files that identify:
+Link this Pattern from the Play. For each relevant Plot, link the chosen Position from the Persona's Projection and establish what the Persona projects into the room. A simple statement such as “Owen is a [man](position-male.md)” is sufficient. Keep the projection available independently of who receives it. Author reception in the Play or Plot: people may notice it, read it differently, or miss it entirely. Where the Persona conceals a different reading, use Shadow for that concealed material. Link the authored files that identify:
 
 - What is projected into the room, and where the Play establishes any readings that matter to the Plot.
 - What cue they can observe and when it becomes available.
