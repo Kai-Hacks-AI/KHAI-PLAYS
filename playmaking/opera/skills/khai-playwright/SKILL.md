@@ -22,6 +22,6 @@ Keep facts and times precise where a choice, consequence, or handoff depends on 
 
 ## Deliver the work
 
-For a whole Play, deliver the linked set of authored files. The Play file (`play.md`) gives the reader an entry point into the work, and the separate Promptbook (`promptbook.md`) gives the conditions for performing it. Include the Plots and other authored objects the brief needs. Use any applicable reference as many times as needed, and link to existing files where they already serve the Play.
+For a whole Play, deliver the linked set of authored files. The Play file (`play.md`) gives the reader an entry point into the work. Link a suitable Promptbook when the brief specifies one. The Director owns the Promptbook. Include the Plots and other authored objects the brief needs. Use any applicable reference as many times as needed, and link to existing files where they already serve the Play.
 
 Give each new object its own Markdown document. For a focused revision, update the requested material and any links or constraints the change affects.

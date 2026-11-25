@@ -6,7 +6,7 @@ This file records the tested commit, authored Company, paired `TO TUNE` Pitches,
 
 - **Branch & Commit Tested:** `opera-pitch` authored and rehearsed at `81ef10e1d446917b1ff2b668ff039bf5e71a4660` (*Add TO TUNE and prepare The Giant’s Shoe rehearsal*), then fast-forwarded onto `9bfa7dcde61356f82fe045c3c476157c4ce2d2fa` (*Document many-to-many links across KHAI PLAYS types*; [01-setup/README.md](README.md) unchanged, and both authored Pitches already satisfy `9bfa7dc`’s `Taxonomy` rule).
 - **Skills Under Test:**
-  - [khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md) with [pitch.md](../../../skills/khai-playwright/references/pitch.md) (`TO TUNE`: `Taxonomy`, `Owner`, `Tenor`, `Undertow`, `Nerve`, `Echo`), [persona.md](../../../skills/khai-playwright/references/persona.md) (`TO PAST`), [piece.md](../../../skills/khai-playwright/references/piece.md) (`TO PLAY`), [place.md](../../../skills/khai-playwright/references/place.md) (`TO SHOW`), and [promptbook.md](../../../skills/khai-playwright/references/promptbook.md) (`HACKS`)
+  - [khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md) with [pitch.md](../../../skills/khai-playwright/references/pitch.md) (`TO TUNE`: `Taxonomy`, `Owner`, `Tenor`, `Undertow`, `Nerve`, `Echo`), [persona.md](../../../skills/khai-playwright/references/persona.md) (`TO PAST`), [piece.md](../../../skills/khai-playwright/references/piece.md) (`TO PLAY`), [place.md](../../../skills/khai-playwright/references/place.md) (`TO SHOW`), and [promptbook.md](../../../skills/khai-director/references/promptbook.md) (`HACKS`)
   - [khai-director/SKILL.md](../../../skills/khai-director/SKILL.md)
 
 ---

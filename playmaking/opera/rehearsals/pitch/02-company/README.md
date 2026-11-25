@@ -1,6 +1,6 @@
 # Company & Pitches: *The Giant’s Shoe*
 
-Authored using [khai-playwright](../../../skills/khai-playwright/SKILL.md) with [TO TUNE](../../../skills/khai-playwright/references/pitch.md), [TO PAST](../../../skills/khai-playwright/references/persona.md), [TO PLAY](../../../skills/khai-playwright/references/piece.md), [TO SHOW](../../../skills/khai-playwright/references/place.md), and the [Promptbook guide](../../../skills/khai-playwright/references/promptbook.md). All six Company files stayed fixed across all four runs; each run received only its active Pitch at `pitch.md`.
+Authored using [khai-playwright](../../../skills/khai-playwright/SKILL.md) with [TO TUNE](../../../skills/khai-playwright/references/pitch.md), [TO PAST](../../../skills/khai-playwright/references/persona.md), [TO PLAY](../../../skills/khai-playwright/references/piece.md), [TO SHOW](../../../skills/khai-playwright/references/place.md), and the [Promptbook guide](../../../skills/khai-director/references/promptbook.md). All six Company files stayed fixed across all four runs; each run received only its active Pitch at `pitch.md`.
 
 ## Fixed Company
 
