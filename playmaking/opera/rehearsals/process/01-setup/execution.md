@@ -7,7 +7,7 @@ This file records the exact commit, material, variant diff, and staging conditio
 - **Branch & Commit Tested:** `opera-process` at `86e099d71dc067f195a28f3692695e1459547c95` (*Rehearsal: add TO IDLE for Der Zauberlehrling*)
 - **Source Material:** Johann Wolfgang von Goethe, [*Der Zauberlehrling* (1798)](https://de.wikisource.org/wiki/Der_Zauberlehrling_(1798)) (*Musen-Almanach für das Jahr 1798*, S. 32–37)
 - **Skills Under Test:**
-  - [khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md) with [persona.md](../../../skills/khai-playwright/references/persona.md) (`TO PAST`), [piece.md](../../../skills/khai-playwright/references/piece.md) (`TO PLAY`), [place.md](../../../skills/khai-playwright/references/place.md) (`TO SHOW`), [process.md](../../../skills/khai-playwright/references/process.md) (`TO IDLE`), and [promptbook.md](../../../skills/khai-playwright/references/promptbook.md) (`HACKS`)
+  - [khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md) with [persona.md](../../../skills/khai-playwright/references/persona.md) (`TO PAST`), [piece.md](../../../skills/khai-playwright/references/piece.md) (`TO PLAY`), [place.md](../../../skills/khai-playwright/references/place.md) (`TO SHOW`), [process.md](../../../skills/khai-playwright/references/process.md) (`TO IDLE`), and [promptbook.md](../../../skills/khai-director/references/promptbook.md) (`HACKS`)
   - [khai-director/SKILL.md](../../../skills/khai-director/SKILL.md)
 
 ---

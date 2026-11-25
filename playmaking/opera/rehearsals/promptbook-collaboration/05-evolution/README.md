@@ -5,7 +5,7 @@
 The two authoring passes suggest a way to help the Playwright move from a desired effect to a short set of conditions.
 
 1. **Goal-first selection and the five-job filter (`references/promptbook.md`):**
-   Before the five-job HACKS table was added to [01-setup/README.md](../01-setup/README.md), the [five-chapter pass](../02-company/five-chapter/authoring-note.md) (`bd33f6e`) filled every chapter; once `a0cc75f` stated each chapter's job alongside the goal, the [two-chapter pass](../02-company/two-chapter/authoring-note.md) selected only `Human` and `Collaboration` and explained why `Agent`, `Knowledge`, and `System` could stay empty because the Company and spectator cue already carried those jobs. Make both steps part of the reusable [Promptbook guide](../../../skills/khai-playwright/references/promptbook.md):
+   Before the five-job HACKS table was added to [01-setup/README.md](../01-setup/README.md), the [five-chapter pass](../02-company/five-chapter/authoring-note.md) (`bd33f6e`) filled every chapter; once `a0cc75f` stated each chapter's job alongside the goal, the [two-chapter pass](../02-company/two-chapter/authoring-note.md) selected only `Human` and `Collaboration` and explained why `Agent`, `Knowledge`, and `System` could stay empty because the Company and spectator cue already carried those jobs. Make both steps part of the reusable [Promptbook guide](../../../skills/khai-director/references/promptbook.md):
 
    > Write only the conditions this Play needs to achieve the Human's intended effect. Leave a chapter empty when the Play, Company, or another rule already carries its job.
 
