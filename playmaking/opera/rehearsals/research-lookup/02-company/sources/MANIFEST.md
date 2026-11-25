@@ -1,0 +1,10 @@
+# Pinned External Source Snapshots (`02-company/sources/`)
+
+All accessible external URLs referenced in the rehearsal briefs or fixture Sourcebooks were retrieved and pinned verbatim before running any researcher context (`63bf845e591a4edda5a0d066bbd24d4467ec4212`):
+
+| External URL | Local Snapshot | Inspection Scope & Access Limits | SHA-256 |
+| --- | --- | --- | --- |
+| `https://pubmed.ncbi.nlm.nih.gov/15577907/#abstract` | [pubmed-15577907-abstract.md](pubmed-15577907-abstract.md) | Bibliographic metadata, abstract, publication types, and MeSH terms for Stott, Stone & Allen (*Nature*, 2004, `10.1038/nature03089`). Full *Nature* article body behind publisher access is **not** included. | `7267e9d2399a6864ddc292dae8b61f7add93b51cae483d32cb782675143f2d28` |
+| `https://github.com/ChBrain/khai/blob/c8c56c7e843eac2eb33709d06ad1d7aca4dd8c00/packages/composites/clime/REFERENCES.md` | [chbrain-khai-clime-references.md](chbrain-khai-clime-references.md) | Complete legacy `Clime` Sourcebook (`REFERENCES.md`) pinned at `c8c56c7e843eac2eb33709d06ad1d7aca4dd8c00` (linked from `fixtures/patterns/clime/sourcebook.md`). Primary academic papers cited inside `REFERENCES.md` are **not** included beyond the PubMed `15577907` abstract above. | `cc5928f5254d9b6d5c0f690a13e245bee086825ccc56f29a366765568cb9dcfa` |
+| `https://de.wikisource.org/wiki/Seite:Kinder_und_Hausm%C3%A4rchen_(Grimm)_1857_I_079.jpg` | [grimm-1857-bd1-p079.md](grimm-1857-bd1-p079.md) | Proofread Wikisource transcription of printed page `79` of *Kinder- und Haus-Märchen Band 1* (Göttingen, 1857). Subsequent pages (`080.jpg` onward) of the 1857 edition are **not** included. | `b6dcc9d003ebb0e5079de5818f8dbf44da814d079a4ce78eae634c411a349c6d` |
+| `https://de.wikisource.org/wiki/H%C3%A4nsel_und_Gretel_(1812)` | [grimm-1812-khm15.md](grimm-1812-khm15.md) | Complete proofread Wikisource transcription of the 1812 1st edition (*Kinder- und Haus-Märchen Band 1, Große Ausgabe*, Berlin, 1812, pp. `[49]`–`[58]` plus appendix notes `[IX]` and `[LXII]`, linked from the Grimm fixture Sourcebooks). | `a5cc392140e796b2145c9ade0a01ee25411cd5b2373f9110065d89892a7548ed` |
