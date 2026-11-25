@@ -35,3 +35,16 @@ All reviewer prompts in [01-setup/README.md](README.md#L17-L22) are excluded fro
 4. **Run `04` — Original Director (`handoff-director` + isolated `handoff-performer` cast, isolated directory `dir-original`):**
    - **Inputs:** Read-only copy of [original/handoff/](../02-company/original/handoff/), [original/director-brief.md](../02-company/original/director-brief.md), and [promptbook.md](../02-company/promptbook.md) (`Staging limit: 0%`).
    - **Deliverables:** Write [04-original-director/strichfassung.md](../04-runs/04-original-director/strichfassung.md) for one fragment, then perform that fragment with isolated `handoff-performer` subagents briefed and cued **solely from the starting context and cues captured in `strichfassung.md`**, write [04-original-director/performance-run.md](../04-runs/04-original-director/performance-run.md), and verify via SHA-256 that every file in `handoff/` is unchanged.
+
+---
+
+## 3. Post-Review Cue-Conflict Referral & Independent Replay (`Runs 05–06`)
+
+Following review of failed Run `02` ([02-source-director/performance-run.md](../04-runs/02-source-director/performance-run.md#L77), where Wave 2 fired after only one mouse lowered his head while [process-household-intrusion.md](../02-company/source-based/handoff/process-household-intrusion.md#initiated-by) required both), the failed run and initial `source-based/handoff/` (`v1`) were preserved untouched and two fresh isolated clean-room runs were added:
+
+5. **Run `05` — Source-Based Playwright Focused Revision (`handoff-playwright`, isolated directory `pw-rev`):**
+   - **Inputs:** [source-based/revision-brief.md](../02-company/source-based/revision-brief.md), [gutenberg-21-town-and-country-mouse.md](../02-company/sources/gutenberg-21-town-and-country-mouse.md), and a working copy `source-based/handoff-revised/` (`v2`) alongside read-only `handoff/` (`v1`).
+   - **Deliverables:** Resolve the returned cue conflict (and align affected links, constraints, `sourcebook.md`, and `inventory.md`) strictly inside [source-based/handoff-revised/](../02-company/source-based/handoff-revised/), recorded in [05-source-playwright-revision.md](../04-runs/05-source-playwright-revision.md).
+6. **Run `06` — Independent Source-Based Director Replay (`handoff-director` + fresh isolated `handoff-performer` cast, isolated directory `dir-replay`):**
+   - **Inputs:** Read-only copy of [source-based/handoff-revised/](../02-company/source-based/handoff-revised/), [source-based/replay-director-brief.md](../02-company/source-based/replay-director-brief.md), and [promptbook.md](../02-company/promptbook.md) (`Staging limit: 0%`), with **no** access to `handoff/` (`v1`), `revision-brief.md`, or failed Run `02`.
+   - **Deliverables:** Write [06-source-director-replay/strichfassung.md](../04-runs/06-source-director-replay/strichfassung.md) and stage [06-source-director-replay/performance-run.md](../04-runs/06-source-director-replay/performance-run.md) on the corrected Plot 3 fragment (`Cue` through `Stage` steps `1–2`), verifying via SHA-256 that every file in `handoff-revised/` is unchanged.
