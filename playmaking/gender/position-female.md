@@ -1,8 +1,8 @@
-# Expected to Accommodate
+# Female
 
 ## Taxonomy
 
-[Gender](pattern.md), an expression of [Attributed Standing](position-attributed-standing.md).
+An expression of [Gender](position-gender.md) for a room that reads the holder as female and applies the expectations described here.
 
 ## Owner
 
@@ -10,7 +10,7 @@ KHAI Gender Pattern.
 
 ## Has
 
-People turn to the holder to absorb friction and keep the group working. They bring requests and disputes to the holder without first asking whose responsibility they are.
+People turn to the holder to absorb friction and keep the group working. They bring requests and disputes to the holder without first asking whose responsibility they are. In rooms that enact it this way, the attention can arrive uninvited.
 
 ## Orders
 

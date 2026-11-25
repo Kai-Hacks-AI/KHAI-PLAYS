@@ -21,7 +21,7 @@ Two evaluators review one application for the last interview slot. A preliminary
 
 ## Pattern wiring
 
-This Play uses [Gender](../../../pattern.md) in [The Routing Slip](plot.md). The offered [Attributed Standing](../../../position-attributed-standing.md) applies to the offstage applicant as read by Morgan during that Plot.
+This Play uses [Gender](../../../pattern.md) in [The Routing Slip](plot.md). The offered [Attributed Standing](https://github.com/Kai-Hacks-AI/KHAI-PLAYS/blob/d79470264a85e2475adc6b7d13bc8d4a3c4877a5/playmaking/gender/position-attributed-standing.md) applies to the offstage applicant as read by Morgan during that Plot.
 
 | Gender requires | This Play supplies |
 | --- | --- |

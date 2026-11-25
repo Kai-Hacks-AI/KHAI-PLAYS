@@ -10,7 +10,7 @@ Ten Minutes to Doors.
 
 ## Projection
 
-Equal co-lead with Tess. In Jules's eyes, Leo holds [Expected to Lead](../../../../position-expected-to-lead.md).
+Equal co-lead with Tess. In Jules's eyes, Leo holds [Male](../../../../position-male.md).
 
 ## Action
 

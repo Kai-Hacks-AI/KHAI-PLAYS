@@ -1,8 +1,8 @@
-# Expected to Lead
+# Male
 
 ## Taxonomy
 
-[Gender](pattern.md), an expression of [Attributed Standing](position-attributed-standing.md).
+An expression of [Gender](position-gender.md) for a room that reads the holder as male and applies the expectations described here.
 
 ## Owner
 

@@ -20,7 +20,7 @@ Two equal lab co-leads arrive to assign the presentation. An unexpected support 
 
 | Requirement | Authored connection |
 | --- | --- |
-| Borrowed assets and holders | [Gender](../../../../pattern.md). Tess links Expected to Accommodate in Projection. Leo links Expected to Lead in Projection. |
+| Borrowed assets and holders | [Gender](../../../../pattern.md). Tess links Female in Projection. Leo links Male in Projection. |
 | Reader, cue, and timing | Jules knows both colleagues and their equal formal roles. [Cue](plot.md#cue) makes both present when the ticket arrives. Jules acts on the gendered reading before either co-lead speaks. |
 | Pressure and cost | [Stage](plot.md#stage) assigns speaking and support. Jules's Action supplies the different challenges if Tess refuses or Leo defers. |
 

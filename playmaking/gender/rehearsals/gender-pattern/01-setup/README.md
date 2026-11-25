@@ -12,4 +12,4 @@ Start from the Playwright's completed handoff and the pinned OPERA Director inst
 
 Trace each staged pressure from the offered Position through the authored wiring to an observable beat. Check whether the outcome remained open and whether the Director followed the authored cues. Record the role inputs, handoff, Strichfassung, and run separately.
 
-The [earlier tabletop run](../04-runs/tabletop.md) covers the superseded generic design. The rebuilt [Playwright handoff](../02-company/rebuilt/play.md) and [Director read-through](../04-runs/rebuilt/performance-run.md) are recorded. Fresh role runs are pending.
+The [earlier tabletop run](../04-runs/tabletop.md) covers the superseded generic design. The rebuilt [Playwright handoff](../02-company/rebuilt/play.md) and [Director read-through](../04-runs/rebuilt/performance-run.md) are recorded. The read-through records the earlier asset names. A fresh rehearsal of the revised Female and Male expressions is pending.

@@ -8,7 +8,7 @@ Uses the [OPERA Dramaturgy contract](https://github.com/Kai-Hacks-AI/KHAI-PLAYS/
 
 ## Root
 
-[Attributed Standing](position-attributed-standing.md) is the anchor. The Pattern offers two playable Positions: [Expected to Accommodate](position-expected-to-accommodate.md) and [Expected to Lead](position-expected-to-lead.md).
+[Gender](position-gender.md) is the anchor. The Pattern offers two playable Positions: [Female](position-female.md) and [Male](position-male.md).
 
 Link this Pattern from the Play. For each relevant Plot, link the chosen Position from the affected Persona's Projection and make clear whose reading it represents. Where the Persona conceals a different reading, use Shadow for that concealed material. Link the authored files that identify:
 
@@ -17,6 +17,8 @@ Link this Pattern from the Play. For each relevant Plot, link the chosen Positio
 - Which action puts the offered Position under pressure, and which observable response enacts its cost in this setting.
 
 ## Open
+
+The two offered expressions are reusable starting points. The Play establishes where a reading is active, whether it precedes speech, and whether it persists or changes. A Persona may encounter different readings from different people.
 
 The Playwright sets the concrete cue, local stakes, readers, and the outcome space. Different readers can interpret the same cue differently. Performers can accept the treatment, challenge it, redirect it, or respond another way within the Plot.
 
