@@ -1,11 +1,15 @@
-# Rehearse Gender
+# Rehearse the rebuilt Gender Pattern
 
-Use the pinned OPERA revision linked in the [Pattern](../../../pattern.md). Give a fresh Playwright the Pattern package and this brief. In a lab hiring room, two evaluators must decide whether to offer a candidate an interview after seeing the candidate's name on a written application. The applicant is offstage. Let the Playwright define the local cues, expectations, alternatives, and stakes. Ask for the Play and Plot files plus the linked objects.
+## Playwright brief
 
-Give a fresh Director the complete authored handoff. At a 0% staging limit, ask for a Strichfassung and a run of the fragment from reading the application to the first consequential treatment. Record what the cast observed, when they observed it, and what it changed. Leave the hiring decision open.
+In a lab, two colleagues of equal formal standing have ten minutes to choose who will present their joint work and who will handle an unexpected support request. Build the material inventory, then author the Play, Plot, and Company files with the pinned OPERA Playwright instructions linked from the [Pattern](../../../pattern.md). Use the offered Positions and wire them into the Play. Make the setting, the readers, the observable cues, and the cost of resisting playable. Leave the performers' response open.
 
-Prepare a second copy with the mapping from the interpreted cue to its consequence removed from both the Play’s wiring and the Plot, retaining the cue and the decision the Plot still requires. Give it to a fresh Director with the same brief. Ask the Director to report missing material before staging if a required connection cannot be played.
+## Director brief
 
-Review both runs against the Pattern. In the complete case, trace a source-supported cue to the local authored consequence and to an observable beat. In the incomplete case, check whether the Director identifies the missing authored connection and returns it to the Playwright. Check cue fidelity separately from file integrity. Archive the two handoffs, Strichfassung, performance evidence, and findings.
+Start from the Playwright's completed handoff and the pinned OPERA Director instructions. With a 0% staging limit, prepare a Strichfassung and rehearse the fragment in which the obligations are assigned and one is challenged. Preserve the authored material and evidence of what the cast could observe. If the wiring leaves an essential condition open, return it to the Playwright.
 
-Status: planned.
+## Review
+
+Trace each staged pressure from the offered Position through the authored wiring to an observable beat. Check whether the outcome remained open and whether the Director followed the authored cues. Record the role inputs, handoff, Strichfassung, and run separately.
+
+The [earlier tabletop run](../04-runs/tabletop.md) covers the superseded generic design. Fresh role runs for the rebuilt Gender assets are pending.
