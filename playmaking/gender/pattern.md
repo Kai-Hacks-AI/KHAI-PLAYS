@@ -8,11 +8,13 @@ Uses the [OPERA Dramaturgy contract](https://github.com/Kai-Hacks-AI/KHAI-PLAYS/
 
 ## Root
 
-The anchor and offered object is [Attributed Standing](position-attributed-standing.md), a Position. Link this Pattern from the Play. For each relevant Plot, link the authored files that identify:
+[Attributed Standing](position-attributed-standing.md) is the anchor. The Pattern offers two playable Positions: [Expected to Accommodate](position-expected-to-accommodate.md) and [Expected to Lead](position-expected-to-lead.md).
+
+Link this Pattern from the Play. For each relevant Plot, link the chosen Position from the affected Persona's Projection and make clear whose reading it represents. Where the Persona conceals a different reading, use Shadow for that concealed material. Link the authored files that identify:
 
 - Who makes the reading and in what setting.
 - What cue they can observe and when it becomes available.
-- What treatment changes because of the reading, and how the Company can make that change observable.
+- Which action puts the offered Position under pressure, and which observable response enacts its cost in this setting.
 
 ## Open
 
