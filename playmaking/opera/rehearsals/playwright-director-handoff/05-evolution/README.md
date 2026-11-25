@@ -1,0 +1,30 @@
+# Evolution — Playwright Inventory & Director Strichfassung Takeaways
+
+Scoped strictly to the rehearsed pipelines (`Runs 01–02` initial source-based + `Runs 05–06` focused revision and independent replay; `Runs 03–04` original; [03-observations/README.md](../03-observations/README.md)) per [01-setup/README.md](../01-setup/README.md). [khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md) and [khai-director/SKILL.md](../../../skills/khai-director/SKILL.md) remain untouched in this rehearsal PR.
+
+> [!NOTE]
+> **Scope of inference:** Inventory-first authoring, focused cue-conflict revision, and `Strichfassung` fragment staging were exercised under `Staging limit: 0%` without un-inventoried, un-cut, or `>0%`-limit baseline ablations. The takeaways below record what worked and which specific handoff rules proved load-bearing across the observed runs.
+
+---
+
+## 1. Playwright Material Inventory & Focused Revision ([khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md#L11-L20), `#L38`)
+
+- **Inventory before composition worked across both routes (`2 / 2`):**
+  - Delivering `inventory.md` (plus `sourcebook.md` on the source-based route) before composing `play.md` and `plot-*.md` produced complete, stable object maps whose Turn 1 SHA-256 digests stayed byte-identical through Turn 2 (`15` operational files in `source-based/handoff/`; `20` operational files in `original/handoff/`), while recording unused/consolidated candidates and leaving multi-Plot Company material intact for alternative productions.
+- **Three authoring hygiene lessons surfaced by `0%` staging and confirmed by the `Run 05 → 06` replay:**
+  1. **Write `Process` `Initiated by` triggers for sequential performer turns rather than simultaneous joint moves:** In initial Run `02`, requiring *both* mice to lower their heads simultaneously in `process-household-intrusion.md#initiated-by` collided with `position-host.md#orders` and `persona-country-mouse.md#action`, causing a mutual *"you eat first"* deferral and an early-cue `0%` failure ([03-observations/README.md](../03-observations/README.md#L55)). Revising `handoff-revised/` (`Run 05`) so host courtesy pairs with direct guest tasting and the wave triggers as soon as both mice are beside the spread and *either* lowers jaws to taste resolved the deadlock cleanly in `4` cast turns on independent replay (`Run 06`, [03-observations/README.md](../03-observations/README.md#L65-L68)).
+  2. **Match every `Plot` / `Process` movement target to a named feature in `Place`:** Mapping `S7`’s *"ran away and hid themselves"* explicitly to the pitch-dark inner recess of `S6`’s single narrow wainscot squeeze-hole across `place-town-larder.md`, `process-household-intrusion.md`, and `plot-03-second-footstep.md` (`Run 05`) eliminated the unmarked `"deeper hiding"` ambiguity seen in Run `02` ([03-observations/README.md](../03-observations/README.md#L54), `#L64`).
+  3. **Keep `Persona` `Tell` strictly externally observable in every posture:** In Run `04`, `persona-maren-holt.md#tell` paired an open variant with an inside-the-pocket variant (*"Inside her right coat pocket—or openly at her side once drawn..."*), requiring the Director to filter unseen brass-key detail on Turn 1 ([03-observations/README.md](../03-observations/README.md#L76)).
+
+---
+
+## 2. Director `Strichfassung`, `0%` Cue Discipline, and Fragment Handoff ([khai-director/SKILL.md](../../../skills/khai-director/SKILL.md#L11-L13))
+
+- **Sub-Plot `Strichfassung` cuts preserved `100%` of authored handoff files across all three Director runs (`55 / 55` SHA-256 checks across `Runs 02, 04, 06`):**
+  - All three Directors cut cleanly inside a single Plot (`Plot 3 Cue → Stage 1–2` in [02-source-director/strichfassung.md](../04-runs/02-source-director/strichfassung.md) and [06-source-director-replay/strichfassung.md](../04-runs/06-source-director-replay/strichfassung.md); `Plot 1 Stage 1 → Stage 3` in [04-original-director/strichfassung.md](../04-runs/04-original-director/strichfassung.md)), linked back to the authored files without modifying a single byte, and in Run `04` drove a 6-turn isolated cast run solely from `strichfassung.md`.
+- **Strict `0%` Process-cue discipline (`Run 02` failure vs. `Run 06` replay):**
+  - Run `02` demonstrated the failure mode to guard against under `Staging limit: 0%`: when sequential performer turns deadlocked an authored simultaneous-bite trigger, firing Wave 2 anyway to fit the turn budget violated `0%`. Holding the cue and returning the conflict to the Playwright ([khai-director/SKILL.md](../../../skills/khai-director/SKILL.md#L11): *"If staging requires a change outside that permission, identify the problem and return the decision to the author"*) allowed Run `05` to fix the authored rules and Run `06` to pass `0%` cleanly without Director workarounds.
+- **Fixed vs. contingent entry states on mid-arc `Strichfassung` fragments:**
+  - Runs `02` and `06` could start a **Plot 3** fragment under `0%` without inventing prior events because `play.md#triggers` fixed Plot 2’s closing state (`Wave 1` at first bite, both mice wedged empty-stomached at the narrow hole, cheese unbitten on the boards).
+  - Run `04` chose a **Plot 1** fragment under `0%` ([performance-run.md](../04-runs/04-original-director/performance-run.md#L88)) because Plots 2 and 3 of *Slack Water at Marrow Slip* inherit *contingent* bargains, item custody, and breaker states from earlier Plots with no recorded `TO LOAN` Performance card.
+  - **Candidate clarification if needed when Directors stage standalone mid-arc fragments under `0%`:** In [khai-director/SKILL.md](../../../skills/khai-director/SKILL.md#L13), note that when a selected mid-Play fragment depends on open choices from an unstaged earlier Plot, those starting conditions must come either from a linked [Performance card](../../../skills/khai-director/references/performance.md) or from explicit Human production assumptions in the brief/Promptbook rather than unrecorded Director invention.
