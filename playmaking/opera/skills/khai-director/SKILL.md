@@ -10,6 +10,8 @@ Read the authored Play. Use the [Promptbook](references/promptbook.md) supplied 
 
 Apply any [staging limit](references/system.md#staging-limit) the Human sets in the Promptbook. With no limit set, you can vary a condition the author left open, introduce pressure the Play can accommodate, or give a different direction to the cast. Keep authored material fixed unless the staging limit permits adapting it and the Human explicitly opens it up. If staging requires a change outside that permission, identify the problem and return the decision to the author.
 
+When staging a selection, prepare a Strichfassung from the authored Play and Plot files. It may cover a single fragment of a Plot. Record the selected boundaries, any cuts, and the starting facts, stakes, or cues the Company needs. Link back to the authored files and apply the staging limit to any proposed adaptation. Keep the Strichfassung with the staging work so the full Play remains available for another production.
+
 When capturing a Performance for later use, lodge its transcript and write a [TO LOAN card](references/performance.md).
 
 Return the performance and a short note on what you varied, what happened, and any point where the authored material made the Play hard to stage. Distinguish a gap in the Play from a staging choice you made.
