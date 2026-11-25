@@ -4,6 +4,8 @@ This file records the tested commit, authored source and receiving Plays, captur
 
 ## Target Under Test
 
+**Evidence boundary:** The four runs record the original rehearsal, including the receiving Play’s 7:08 PM call and the source’s 6:59 PM response. The receiving brief was subsequently corrected to 6:51 PM. The linked working files and skill guidance may reflect later edits; the original evidence is preserved at [rehearsal evidence commit `a4811f2`](https://github.com/Kai-Hacks-AI/KHAI-PLAYS/tree/a4811f25df188e08c649d80e6463c8e9e54ebf5f/playmaking/opera/rehearsals/performance). No rerun of the corrected brief is claimed.
+
 - **Branch & Commit Tested:** `opera-performance` at `260de71cfb21c02dad3494b332fbef7f26b9d784` (*Add TO LOAN and prepare The Spare Projector rehearsal*)
 - **Skills Under Test:**
   - [khai-director/SKILL.md](../../../skills/khai-director/SKILL.md) with [performance.md](../../../skills/khai-director/references/performance.md) (`TO LOAN`: `Taxonomy`, `Owner`, `Lodged`, `Occasion`, `Aftermath`, `Note`)
