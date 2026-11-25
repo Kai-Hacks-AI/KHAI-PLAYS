@@ -2,11 +2,11 @@
 
 ## Taxonomy
 
-Booth risk-containment Plan in [Rialto Spare](../ENACTS.md).
+Booth risk-containment Plan in [Rialto Spare](../play.md).
 
 ## Owner
 
-Pursued by [Tomas Voss](../personas/tomas-voss.md) in [Rialto Spare](../ENACTS.md).
+Pursued by [Tomas Voss](../personas/tomas-voss.md) in [Rialto Spare](../play.md).
 
 ## Direction
 

@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-House Manager & Repertory Programmer of the Rialto Cinema in [Rialto Spare](../ENACTS.md).
+House Manager & Repertory Programmer of the Rialto Cinema in [Rialto Spare](../play.md).
 
 ## Owner
 

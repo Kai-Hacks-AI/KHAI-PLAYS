@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Pre-show front-door crowd buildup in [The Spare Projector](../ENACTS.md).
+Pre-show front-door crowd buildup in [The Spare Projector](../play.md).
 
 ## Owner
 

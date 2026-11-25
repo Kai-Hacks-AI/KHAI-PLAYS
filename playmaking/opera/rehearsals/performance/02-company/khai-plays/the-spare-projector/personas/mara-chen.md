@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Booth Projectionist of the Astor Cinema in [The Spare Projector](../ENACTS.md).
+Booth Projectionist of the Astor Cinema in [The Spare Projector](../play.md).
 
 ## Owner
 

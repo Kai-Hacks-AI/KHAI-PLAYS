@@ -32,10 +32,10 @@ Start with the Human’s intended change. Reuse the authored objects that alread
 - A Place can hold a Piece the cast uses when a Process starts. Link the existing objects so a Plot can bring them into action together.
 - Attach a Pitch where its tone applies. The Promptbook provides the conditions for performing the Play.
 
-Any KHAI PLAYS type can link to any other type. An object can link to many others and be linked from many others. Follow the links that matter to the brief and read the selected references for their authoring details.
+Any KHAI PLAYS type can link to any other type. An object can link to many others and be linked from many others. Follow the links that matter to the brief and read the selected references for their authoring details. When you bring material from one Play into another, reconcile when events happened and say when the receiving Company can learn about them.
 
 ## Deliver the work
 
-For a whole Play, deliver the linked set of authored files. The ENACTS document gives the reader an entry point into the work, and the separate Promptbook gives the conditions for performing it. Include the Plots and other authored objects the brief needs. Use any applicable reference as many times as needed, and link to existing files where they already serve the Play.
+For a whole Play, deliver the linked set of authored files. The Play file (`play.md`) gives the reader an entry point into the work, and the separate Promptbook (`promptbook.md`) gives the conditions for performing it. Include the Plots and other authored objects the brief needs. Use any applicable reference as many times as needed, and link to existing files where they already serve the Play.
 
 Give each new object its own Markdown document. For a focused revision, update the requested material and any links or constraints the change affects.

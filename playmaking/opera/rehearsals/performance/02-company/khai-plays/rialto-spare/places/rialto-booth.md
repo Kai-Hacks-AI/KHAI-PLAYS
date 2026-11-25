@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Upper projection booth of the Rialto Cinema in [Rialto Spare](../ENACTS.md).
+Upper projection booth of the Rialto Cinema in [Rialto Spare](../play.md).
 
 ## Owner
 

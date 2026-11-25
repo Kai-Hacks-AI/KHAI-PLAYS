@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Default production Pitch for [The Spare Projector](../ENACTS.md).
+Default production Pitch for [The Spare Projector](../play.md).
 
 ## Owner
 

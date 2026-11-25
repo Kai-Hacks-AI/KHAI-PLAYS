@@ -28,11 +28,11 @@ Two linked evening Plots track one Friday failure across twenty minutes at the n
 - [Promise Reckoning](processes/promise-reckoning.md) — The crowd and box-office consequence triggered by Plot 1's announcement and waiting past curtain in Plot 2.
 - Competing Plans: [Hold the Screening Together](plans/hold-the-screening-together.md) and [Keep Faith with the Queue](plans/keep-faith-with-the-queue.md).
 - Default Pitch: [Wet Marquee](pitches/wet-marquee.md) applies across both Plots unless the Director selects another Pitch for the run.
-- Staging conditions: [PROMPTBOOK.md](PROMPTBOOK.md).
+- Staging conditions: [promptbook.md](promptbook.md).
 
 ## Triggers
 
-Fixed at opening: at 6:58 PM the Astor's sole 35mm projector sheared its intermittent drive gear; at 7:08 PM [Mara Chen](personas/mara-chen.md) called the cross-town Rialto Cinema booth line asking whether they could spare their portable 35mm unit; at 7:18 PM [What We Tell the Line](plots/01-what-we-tell-the-line.md) opens with [Sidewalk Queue Swell](processes/sidewalk-queue-swell.md) gathering outside for the 7:30 PM screening.
+Fixed at opening: before 6:51 PM the Astor's sole 35mm projector sheared its intermittent drive gear; at 6:51 PM [Mara Chen](personas/mara-chen.md) called the cross-town Rialto Cinema booth line asking whether they could spare their portable 35mm unit; at 7:18 PM [What We Tell the Line](plots/01-what-we-tell-the-line.md) opens with [Sidewalk Queue Swell](processes/sidewalk-queue-swell.md) gathering outside for the 7:30 PM screening.
 
 This Play draws on the archived `TO LOAN` Performance [Rialto Spare · run-01](../../archives/khai-plays/rialto-spare/run-01/performance.md), staged under one of two arrival timings set for the run:
 

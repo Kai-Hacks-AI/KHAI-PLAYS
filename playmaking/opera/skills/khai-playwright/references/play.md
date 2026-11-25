@@ -22,7 +22,7 @@ Name the default Pitch and say when any other linked Pitch applies. A Plot can c
 
 ## Triggers
 
-Describe what starts and ends each Plot and how one hands off to the next. If the Play draws on a recorded Performance, link it and say when it enters. For a short Play, give the performers a clear opening situation, say what is fixed at the start, and leave their decisions open. Give the Director enough to stage the Play from the page.
+Describe what starts and ends each Plot and how one hands off to the next. For a short Play, give the performers a clear opening situation, say what is fixed at the start, and leave their decisions open. Give the Director enough to stage the Play from the page.
 
 ## Stakes
 

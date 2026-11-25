@@ -1,6 +1,6 @@
 # Promptbook — Rialto Spare
 
-Stage [Rialto Spare](ENACTS.md) with these conditions.
+Stage [Rialto Spare](play.md) with these conditions.
 
 ## Human
 
@@ -20,7 +20,7 @@ Once the two Personas settle what Rialto is doing, whoever takes the booth phone
 
 ## Knowledge
 
-Both Personas begin knowing the fixed booth conditions in [ENACTS.md](ENACTS.md): Mara Chen's plea on the booth line from the Astor Cinema across town, Machine 2's afternoon oil-seal weep and clutch slip under [Machine 2 Warm-Up Run](processes/machine-two-warmup.md), the wet `20–30` minute cross-town bridge drive, and the missing Astor pedestal collar shim on [The Bench Spare](pieces/bench-spare-unit.md).
+Both Personas begin knowing the fixed booth conditions in [play.md](play.md): Mara Chen's plea on the booth line from the Astor Cinema across town, Machine 2's afternoon oil-seal weep and clutch slip under [Machine 2 Warm-Up Run](processes/machine-two-warmup.md), the wet `20–30` minute cross-town bridge drive, and the missing Astor pedestal collar shim on [The Bench Spare](pieces/bench-spare-unit.md).
 
 Facts outside Rialto's booth cannot be verified during this Plot: neither Persona nor the Director knows how fast an Astor or Rialto vehicle will actually clear river traffic tonight, whether the Astor's stripped head has a salvageable collar that fits without shimming, or how Machine 2 will behave two hours from now on Reel 4. Record the exact outgoing message sent to the Astor booth phone, what Rialto settled, and what remains operationally open when capturing a Performance card.
 

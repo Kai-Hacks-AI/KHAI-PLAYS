@@ -1,6 +1,6 @@
 # Promptbook — The Spare Projector
 
-Stage [The Spare Projector](ENACTS.md) with these conditions.
+Stage [The Spare Projector](play.md) with these conditions.
 
 ## Human
 
@@ -29,6 +29,6 @@ Enforce strict channel separation and `TO LOAN` card boundaries at every step:
 
 ## System
 
-- Keep [ENACTS.md](ENACTS.md), Company files, [Wet Marquee](pitches/wet-marquee.md), Plot order, and the exact Rialto booth message identical across both arrival timings; vary only when [Rialto Spare · run-01](../../archives/khai-plays/rialto-spare/run-01/performance.md) arrives (**Before Plot 1** vs. **Between Plots**).
+- Keep [play.md](play.md), Company files, [Wet Marquee](pitches/wet-marquee.md), Plot order, and the exact Rialto booth message identical across both arrival timings; vary only when [Rialto Spare · run-01](../../archives/khai-plays/rialto-spare/run-01/performance.md) arrives (**Before Plot 1** vs. **Between Plots**).
 - Never consult a source `transcript.md`, never use or foreshadow `performance.md` before its scheduled arrival, and never resolve offstage facts that `performance.md` left open (no invented follow-up calls from Rialto, no surprise van arrivals solving transit, and no offstage hardware verdicts beyond what is already present at the Astor).
 - Keep each Plot to roughly `4–5` cast turns; require a committed public statement to the queue to end Plot 1 and one enacted front-of-house or screening consequence to end Plot 2.

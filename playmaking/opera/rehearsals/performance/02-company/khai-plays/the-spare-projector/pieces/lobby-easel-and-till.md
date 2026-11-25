@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Front-of-house public notice and box-office kit in [The Spare Projector](../ENACTS.md).
+Front-of-house public notice and box-office kit in [The Spare Projector](../play.md).
 
 ## Owner
 

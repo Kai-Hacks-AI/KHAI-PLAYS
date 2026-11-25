@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Pre-show booth readiness check in [Rialto Spare](../ENACTS.md).
+Pre-show booth readiness check in [Rialto Spare](../play.md).
 
 ## Owner
 

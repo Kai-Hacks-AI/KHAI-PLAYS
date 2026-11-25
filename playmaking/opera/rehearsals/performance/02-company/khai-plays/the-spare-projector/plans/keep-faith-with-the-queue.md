@@ -2,11 +2,11 @@
 
 ## Taxonomy
 
-Front-of-house trust and box-office solvency Plan in [The Spare Projector](../ENACTS.md).
+Front-of-house trust and box-office solvency Plan in [The Spare Projector](../play.md).
 
 ## Owner
 
-Pursued by [Devon Reyes](../personas/devon-reyes.md) in [The Spare Projector](../ENACTS.md).
+Pursued by [Devon Reyes](../personas/devon-reyes.md) in [The Spare Projector](../play.md).
 
 ## Direction
 

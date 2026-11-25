@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-[Rialto Spare](../../../../khai-plays/rialto-spare/ENACTS.md)
+[Rialto Spare](../../../../khai-plays/rialto-spare/play.md)
 
 ## Owner
 
@@ -17,7 +17,7 @@ KHAI Director (Rialto Spare · run-01)
 - **Date:** `2026-11-24` (`6:55 PM–6:59 PM` booth clock on the Play's rainy Friday double-feature grid)
 - **Venue:** [The Rialto Projection Booth](../../../../khai-plays/rialto-spare/places/rialto-booth.md)
 - **Active Pitch:** [Booth Realism](../../../../khai-plays/rialto-spare/pitches/booth-realism.md)
-- **Human Conditions:** Stage [Rialto Spare](../../../../khai-plays/rialto-spare/ENACTS.md) and [PROMPTBOOK.md](../../../../khai-plays/rialto-spare/PROMPTBOOK.md) under [Booth Realism](../../../../khai-plays/rialto-spare/pitches/booth-realism.md) (`2026-11-24`, Rialto Projection Booth) with the crew's decision on [The Bench Spare](../../../../khai-plays/rialto-spare/pieces/bench-spare-unit.md) completely unsteered and observable speech/action only, lodging `run-01`.
+- **Human Conditions:** Stage [Rialto Spare](../../../../khai-plays/rialto-spare/play.md) and [promptbook.md](../../../../khai-plays/rialto-spare/promptbook.md) under [Booth Realism](../../../../khai-plays/rialto-spare/pitches/booth-realism.md) (`2026-11-24`, Rialto Projection Booth) with the crew's decision on [The Bench Spare](../../../../khai-plays/rialto-spare/pieces/bench-spare-unit.md) completely unsteered and observable speech/action only, lodging `run-01`.
 
 ## Aftermath
 

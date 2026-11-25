@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Post-announcement crowd and box-office follow-through in [The Spare Projector](../ENACTS.md).
+Post-announcement crowd and box-office follow-through in [The Spare Projector](../play.md).
 
 ## Owner
 

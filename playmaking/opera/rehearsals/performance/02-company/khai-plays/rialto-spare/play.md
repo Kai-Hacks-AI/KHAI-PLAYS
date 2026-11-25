@@ -26,7 +26,7 @@ One brisk evening Plot, [The Cross-Town Call](plots/the-cross-town-call.md), cat
 - [Machine 2 Warm-Up Run](processes/machine-two-warmup.md) — The active stress test exposing whether Rialto's second changeover machine holds steady before doors unlock.
 - Competing Plans: [Safeguard the Double-Bill](plans/safeguard-the-double-bill.md) and [Rescue the Astor Screening](plans/rescue-the-astor-screening.md).
 - Default Pitch: [Booth Realism](pitches/booth-realism.md) applies across the Play unless the Director selects another Pitch for the run.
-- Staging conditions: [PROMPTBOOK.md](PROMPTBOOK.md).
+- Staging conditions: [promptbook.md](promptbook.md).
 
 ## Triggers
 

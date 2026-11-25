@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Plot 2 of [The Spare Projector](../ENACTS.md).
+Plot 2 of [The Spare Projector](../play.md).
 
 ## Owner
 

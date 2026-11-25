@@ -1,11 +1,11 @@
 # Captured Transcript — *Rialto Spare* (`run-01`)
 
-- **Play:** [Rialto Spare](../../../../khai-plays/rialto-spare/ENACTS.md)
+- **Play:** [Rialto Spare](../../../../khai-plays/rialto-spare/play.md)
 - **Plot:** [The Cross-Town Call](../../../../khai-plays/rialto-spare/plots/the-cross-town-call.md)
 - **Date:** `2026-11-24`
 - **Venue:** [The Rialto Projection Booth](../../../../khai-plays/rialto-spare/places/rialto-booth.md)
 - **Active Pitch:** [Booth Realism](../../../../khai-plays/rialto-spare/pitches/booth-realism.md)
-- **Promptbook:** [PROMPTBOOK.md](../../../../khai-plays/rialto-spare/PROMPTBOOK.md)
+- **Promptbook:** [promptbook.md](../../../../khai-plays/rialto-spare/promptbook.md)
 - **Cast:** [Tomas Voss](../../../../khai-plays/rialto-spare/personas/tomas-voss.md) (Chief Projectionist) · [Nadia Osei](../../../../khai-plays/rialto-spare/personas/nadia-osei.md) (House Manager & Repertory Programmer)
 
 ---
@@ -124,6 +124,6 @@ The wall clock clicks onto `6:59 PM`—one minute before seven flat, sixteen min
 ## Friction Noticed in *Rialto Spare* and `TO LOAN`
 
 - ***Rialto Spare* (Play vs. staging):** No changes to the authored Play were needed. Two minor points of staging pressure surfaced:
-  1. *Calendar date vs. fictional show night:* [ENACTS.md](../../../../khai-plays/rialto-spare/ENACTS.md) fixes the show on a rainy Friday evening, whereas a calendar-dated production brief (`2026-11-24`, a Tuesday) requires treating `Friday` as the Play's internal show-night grid alongside the archive's run date.
-  2. *One-way message cap vs. two-way verification conditions:* Because [PROMPTBOOK.md](../../../../khai-plays/rialto-spare/PROMPTBOOK.md) forbids live two-way phone back-and-forth with the Astor and caps the scene at `5` turns, Nadia's Turn 3 proposal (*"that Mara confirms that collar shim is on her pedestal before rolling"*) could only have been executed as a self-enforcing conditional dispatch message had Tomas agreed. In practice, that constraint tightened the realism of the scene rather than obstructing it.
+  1. *Calendar date vs. fictional show night:* [play.md](../../../../khai-plays/rialto-spare/play.md) fixes the show on a rainy Friday evening, whereas a calendar-dated production brief (`2026-11-24`, a Tuesday) requires treating `Friday` as the Play's internal show-night grid alongside the archive's run date.
+  2. *One-way message cap vs. two-way verification conditions:* Because [promptbook.md](../../../../khai-plays/rialto-spare/promptbook.md) forbids live two-way phone back-and-forth with the Astor and caps the scene at `5` turns, Nadia's Turn 3 proposal (*"that Mara confirms that collar shim is on her pedestal before rolling"*) could only have been executed as a self-enforcing conditional dispatch message had Tomas agreed. In practice, that constraint tightened the realism of the scene rather than obstructing it.
 - **`TO LOAN` (`performance.md`):** The six-heading card captures cross-Play consequences cleanly, provided the Director strictly separates what crossed the wire to the receiving house (the verbatim `6:59 PM` voice message on the Astor booth extension) from Rialto-only booth actions that an external cast cannot know unless told.

@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Chief Projectionist of the Rialto Cinema in [Rialto Spare](../ENACTS.md).
+Chief Projectionist of the Rialto Cinema in [Rialto Spare](../play.md).
 
 ## Owner
 

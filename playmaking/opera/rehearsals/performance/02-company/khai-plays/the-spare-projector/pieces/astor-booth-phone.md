@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Booth-to-booth communications handset and message console in [The Spare Projector](../ENACTS.md).
+Booth-to-booth communications handset and message console in [The Spare Projector](../play.md).
 
 ## Owner
 

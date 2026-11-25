@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Split-level front threshold and upper booth access of the Astor Cinema in [The Spare Projector](../ENACTS.md).
+Split-level front threshold and upper booth access of the Astor Cinema in [The Spare Projector](../play.md).
 
 ## Owner
 

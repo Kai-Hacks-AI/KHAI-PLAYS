@@ -2,11 +2,11 @@
 
 ## Taxonomy
 
-Booth salvage and screening-preservation Plan in [The Spare Projector](../ENACTS.md).
+Booth salvage and screening-preservation Plan in [The Spare Projector](../play.md).
 
 ## Owner
 
-Pursued by [Mara Chen](../personas/mara-chen.md) in [The Spare Projector](../ENACTS.md).
+Pursued by [Mara Chen](../personas/mara-chen.md) in [The Spare Projector](../play.md).
 
 ## Direction
 

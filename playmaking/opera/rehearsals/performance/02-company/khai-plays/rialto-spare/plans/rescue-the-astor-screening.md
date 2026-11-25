@@ -2,11 +2,11 @@
 
 ## Taxonomy
 
-Cross-house mutual-aid Plan in [Rialto Spare](../ENACTS.md).
+Cross-house mutual-aid Plan in [Rialto Spare](../play.md).
 
 ## Owner
 
-Pursued by [Nadia Osei](../personas/nadia-osei.md) in [Rialto Spare](../ENACTS.md).
+Pursued by [Nadia Osei](../personas/nadia-osei.md) in [Rialto Spare](../play.md).
 
 ## Direction
 

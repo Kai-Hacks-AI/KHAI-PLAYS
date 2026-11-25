@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Booth emergency backup assembly in [Rialto Spare](../ENACTS.md).
+Booth emergency backup assembly in [Rialto Spare](../play.md).
 
 ## Owner
 

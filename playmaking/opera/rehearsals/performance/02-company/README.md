@@ -6,8 +6,8 @@ Authored under House folder `khai-plays` (`Estate: KHAI-PLAYS`) using [khai-play
 
 | Type | File | Role in Source Play |
 | --- | --- | --- |
-| **Play (`ENACTS`)** | [ENACTS.md](khai-plays/rialto-spare/ENACTS.md) | *Rialto Spare* — `6:55 PM` booth decision twenty minutes before Rialto’s `7:15 PM` doors for a `7:30 PM` archival 35mm double-feature. |
-| **Promptbook (`HACKS`)** | [PROMPTBOOK.md](khai-plays/rialto-spare/PROMPTBOOK.md) | Unsteered `4–5` turn booth negotiation ending on one verbatim outgoing message to the Astor booth line. |
+| **Play (`ENACTS`)** | [play.md](khai-plays/rialto-spare/play.md) | *Rialto Spare* — `6:55 PM` booth decision twenty minutes before Rialto’s `7:15 PM` doors for a `7:30 PM` archival 35mm double-feature. |
+| **Promptbook (`HACKS`)** | [promptbook.md](khai-plays/rialto-spare/promptbook.md) | Unsteered `4–5` turn booth negotiation ending on one verbatim outgoing message to the Astor booth line. |
 | **Plot (`TO CAST`)** | [the-cross-town-call.md](khai-plays/rialto-spare/plots/the-cross-town-call.md) | *The Cross-Town Call* — Mara Chen’s plea on the console vs. Rialto’s Machine 2 risk and missing collar shim. |
 | **Personas (`TO PAST`)** | [tomas-voss.md](khai-plays/rialto-spare/personas/tomas-voss.md), [nadia-osei.md](khai-plays/rialto-spare/personas/nadia-osei.md) | Chief Projectionist Tomas Voss and House Manager & Programmer Nadia Osei. |
 | **Place (`TO SHOW`)** | [rialto-booth.md](khai-plays/rialto-spare/places/rialto-booth.md) | *The Rialto Projection Booth* — Machine 1 threaded, Machine 2 running hot, freight landing, and booth phone console. |
@@ -26,8 +26,8 @@ Following `02-company/archives/<play-path>/<performance-id>/` (preserving House 
 
 | Type | File | Role in Receiving Play |
 | --- | --- | --- |
-| **Play (`ENACTS`)** | [ENACTS.md](khai-plays/the-spare-projector/ENACTS.md) | *The Spare Projector* — links [performance.md](archives/khai-plays/rialto-spare/run-01/performance.md) in `## Triggers` across **Before Plot 1** and **Between Plots** timings. |
-| **Promptbook (`HACKS`)** | [PROMPTBOOK.md](khai-plays/the-spare-projector/PROMPTBOOK.md) | Enforces single-channel booth delivery to Mara alone, zero `transcript.md` access, zero pre-arrival anticipation, and preservation of open `Aftermath` questions. |
+| **Play (`ENACTS`)** | [play.md](khai-plays/the-spare-projector/play.md) | *The Spare Projector* — links [performance.md](archives/khai-plays/rialto-spare/run-01/performance.md) in `## Triggers` across **Before Plot 1** and **Between Plots** timings. |
+| **Promptbook (`HACKS`)** | [promptbook.md](khai-plays/the-spare-projector/promptbook.md) | Enforces single-channel booth delivery to Mara alone, zero `transcript.md` access, zero pre-arrival anticipation, and preservation of open `Aftermath` questions. |
 | **Plots (`TO CAST`)** | [01-what-we-tell-the-line.md](khai-plays/the-spare-projector/plots/01-what-we-tell-the-line.md), [02-keeping-the-door.md](khai-plays/the-spare-projector/plots/02-keeping-the-door.md) | Plot 1 (`7:18 PM`): commit to a statement for the wet queue; Plot 2 (`~7:36–7:38 PM`): act on that promise through one concrete consequence. |
 | **Personas (`TO PAST`)** | [mara-chen.md](khai-plays/the-spare-projector/personas/mara-chen.md), [devon-reyes.md](khai-plays/the-spare-projector/personas/devon-reyes.md) | Booth Projectionist Mara Chen (holds booth phone & alley hatchback keys) and Front-of-House Lead Devon Reyes (faces the queue at the easel & till). |
 | **Place (`TO SHOW`)** | [astor-threshold.md](khai-plays/the-spare-projector/places/astor-threshold.md) | *The Astor Lobby & Booth Stairwell* — street-level glass doors & terrazzo separated by eight steel steps from the sound-buffered booth doorway. |

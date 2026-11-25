@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Front-of-House & Box-Office Lead of the Astor Cinema in [The Spare Projector](../ENACTS.md).
+Front-of-House & Box-Office Lead of the Astor Cinema in [The Spare Projector](../play.md).
 
 ## Owner
 

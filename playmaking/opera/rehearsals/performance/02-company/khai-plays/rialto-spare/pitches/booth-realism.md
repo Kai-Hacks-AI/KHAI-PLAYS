@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Default production Pitch for [Rialto Spare](../ENACTS.md).
+Default production Pitch for [Rialto Spare](../play.md).
 
 ## Owner
 

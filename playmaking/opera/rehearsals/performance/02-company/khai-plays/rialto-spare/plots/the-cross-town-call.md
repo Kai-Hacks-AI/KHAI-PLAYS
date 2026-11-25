@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-Single Plot of [Rialto Spare](../ENACTS.md).
+Single Plot of [Rialto Spare](../play.md).
 
 ## Owner
 
