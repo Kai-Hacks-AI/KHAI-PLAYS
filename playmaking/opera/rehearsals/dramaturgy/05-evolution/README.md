@@ -29,3 +29,5 @@ Scoped strictly to the two rehearsed cases (`Gender` and `Clime`) and four `0%`-
 The reduced Clime variant removes the standing regime across several files and leaves cross-file inconsistencies. The Director identified the missing standing regime and the inconsistencies together. This run leaves open whether the Director would detect that missing requirement in isolation.
 
 After the rehearsal, [Choosing Material](../../../skills/khai-playwright/references/choosing-material.md) gained a link to Dramaturgy and the Dramaturgy reference gained guidance on keeping requirements in their owning files. The runs above used the pinned inputs in the protocol.
+
+The source-to-stage traces establish enactment of the pinned Pattern adaptations, not independent validation of the underlying academic claims. The shared research lookup and verification workflow is outside this rehearsal’s scope.
