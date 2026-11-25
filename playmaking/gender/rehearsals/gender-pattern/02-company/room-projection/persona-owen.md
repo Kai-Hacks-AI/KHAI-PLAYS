@@ -10,7 +10,7 @@ KHAI PLAYS · Gender rehearsal.
 
 ## Projection
 
-Owen comes ready to argue for a presenter using the likely review questions. He projects the [Male expression](../../../../position-male.md) into the lab through the visible he/him entry on his directory card.
+Owen is a [man](../../../../position-male.md).
 
 ## Action
 
