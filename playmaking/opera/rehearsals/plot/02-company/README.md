@@ -1,6 +1,6 @@
 # Company & Plots: *The Wrong Name*
 
-Authored using [khai-playwright](../../../skills/khai-playwright/SKILL.md) with [TO CAST](../../../skills/khai-playwright/references/plot.md), [TO PAST](../../../skills/khai-playwright/references/persona.md), [TO PLAY](../../../skills/khai-playwright/references/piece.md), [TO SHOW](../../../skills/khai-playwright/references/place.md), [TO IDLE](../../../skills/khai-playwright/references/process.md), and the [Promptbook guide](../../../skills/khai-playwright/references/promptbook.md). All seven Company files stayed fixed across all four runs; each run received only its active Plot at `plot.md`.
+Authored using [khai-playwright](../../../skills/khai-playwright/SKILL.md) with [TO CAST](../../../skills/khai-playwright/references/plot.md), [TO PAST](../../../skills/khai-playwright/references/persona.md), [TO PLAY](../../../skills/khai-playwright/references/piece.md), [TO SHOW](../../../skills/khai-playwright/references/place.md), [TO IDLE](../../../skills/khai-playwright/references/process.md), and the [Promptbook guide](../../../skills/khai-director/references/promptbook.md). All seven Company files stayed fixed across all four runs; each run received only its active Plot at `plot.md`.
 
 ## Fixed Company
 

@@ -6,7 +6,7 @@ This file records the exact commit, authored Company, casting protocol, and isol
 
 - **Branch & Commit Tested:** `opera-position` at `6a8b8f6f80e9ee89ee3666fa44c5bfa168bc2e28` (*Add TO HOLD and prepare the printmaking rehearsal*)
 - **Skills Under Test:**
-  - [khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md) with [position.md](../../../skills/khai-playwright/references/position.md) (`TO HOLD`: `Taxonomy`, `Owner`, `Has`, `Orders`, `Loses`, `Drives`), [persona.md](../../../skills/khai-playwright/references/persona.md) (`TO PAST`), [piece.md](../../../skills/khai-playwright/references/piece.md) (`TO PLAY`), [place.md](../../../skills/khai-playwright/references/place.md) (`TO SHOW`), [process.md](../../../skills/khai-playwright/references/process.md) (`TO IDLE`), and [promptbook.md](../../../skills/khai-playwright/references/promptbook.md) (`HACKS`)
+  - [khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md) with [position.md](../../../skills/khai-playwright/references/position.md) (`TO HOLD`: `Taxonomy`, `Owner`, `Has`, `Orders`, `Loses`, `Drives`), [persona.md](../../../skills/khai-playwright/references/persona.md) (`TO PAST`), [piece.md](../../../skills/khai-playwright/references/piece.md) (`TO PLAY`), [place.md](../../../skills/khai-playwright/references/place.md) (`TO SHOW`), [process.md](../../../skills/khai-playwright/references/process.md) (`TO IDLE`), and [promptbook.md](../../../skills/khai-director/references/promptbook.md) (`HACKS`)
   - [khai-director/SKILL.md](../../../skills/khai-director/SKILL.md)
 
 ---

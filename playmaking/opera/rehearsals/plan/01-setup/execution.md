@@ -6,7 +6,7 @@ This file records the exact commit, authored Company, paired `TO DOIT` Plans, an
 
 - **Branch & Commit Tested:** `opera-plan` at `2b0ed4394d5d90af73210fba9560d88e24dbf3fe` (*Prepare The Last Airing Plan rehearsal*)
 - **Skills Under Test:**
-  - [khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md) with [plan.md](../../../skills/khai-playwright/references/plan.md) (`TO DOIT`: `Taxonomy`, `Owner`, `Direction`, `Orders`, `Implementation`, `Targets`), [position.md](../../../skills/khai-playwright/references/position.md) (`TO HOLD`), [process.md](../../../skills/khai-playwright/references/process.md) (`TO IDLE`), [place.md](../../../skills/khai-playwright/references/place.md) (`TO SHOW`), [piece.md](../../../skills/khai-playwright/references/piece.md) (`TO PLAY`), [persona.md](../../../skills/khai-playwright/references/persona.md) (`TO PAST`), and [promptbook.md](../../../skills/khai-playwright/references/promptbook.md) (`HACKS`)
+  - [khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md) with [plan.md](../../../skills/khai-playwright/references/plan.md) (`TO DOIT`: `Taxonomy`, `Owner`, `Direction`, `Orders`, `Implementation`, `Targets`), [position.md](../../../skills/khai-playwright/references/position.md) (`TO HOLD`), [process.md](../../../skills/khai-playwright/references/process.md) (`TO IDLE`), [place.md](../../../skills/khai-playwright/references/place.md) (`TO SHOW`), [piece.md](../../../skills/khai-playwright/references/piece.md) (`TO PLAY`), [persona.md](../../../skills/khai-playwright/references/persona.md) (`TO PAST`), and [promptbook.md](../../../skills/khai-director/references/promptbook.md) (`HACKS`)
   - [khai-director/SKILL.md](../../../skills/khai-director/SKILL.md)
 
 ---

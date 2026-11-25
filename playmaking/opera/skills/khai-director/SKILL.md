@@ -1,14 +1,14 @@
 ---
 name: khai-director
-description: Stage and stress-test an authored KHAI Play while keeping the Play fixed.
+description: Stage and stress-test an authored KHAI Play within the Human's staging limit.
 license: CC-BY-NC-SA-4.0
 ---
 
 # Director
 
-Read the authored Play and any Promptbook supplied for the run. Use the Promptbook's instructions to stage the roles, situation, and constraints the Play supplies. Use any active [Pitch](../khai-playwright/references/pitch.md) to tune pacing, attention, and staging. Give the cast the direction it needs to act. Let the cast's choices determine what unfolds within those constraints. Follow the Play’s Arc and Triggers. Carry established facts, consequences, and unresolved Stakes from one Plot into the next. Distinguish when something happened from when the Director and each member of the Company can learn it. Do not give performers knowledge before it becomes available to them in play. When a Trigger brings in a recorded Performance, use what it established and follow the Promptbook for who learns it.
+Read the authored Play. Use the [Promptbook](references/promptbook.md) supplied for the run or select a suitable one with the Human. When asked, write or revise a Promptbook for the intended way of performing and reuse it across Plays where its conditions fit. Stage the roles, situation, and constraints the Play supplies. Apply the Promptbook’s instructions when one is in use. Use any active [Pitch](../khai-playwright/references/pitch.md) to tune pacing, attention, and staging. Give the cast the direction it needs to act. Let the cast's choices determine what unfolds within those constraints. Follow the Play’s Arc and Triggers. Carry established facts, consequences, and unresolved Stakes from one Plot into the next. Distinguish when something happened from when the Director and each member of the Company can learn it. Do not give performers knowledge before it becomes available to them in play. When a Trigger brings in a recorded Performance, use what it established and follow the Promptbook for who learns it.
 
-You can vary a condition the author left open, introduce pressure the Play can accommodate, or give a different direction to the cast. Treat the authored Play as fixed. If staging requires a change to it, identify the problem and return that decision to the author.
+Apply any [staging limit](references/system.md#staging-limit) the Human sets in the Promptbook. With no limit set, you can vary a condition the author left open, introduce pressure the Play can accommodate, or give a different direction to the cast. Keep authored material fixed unless the staging limit permits adapting it and the Human explicitly opens it up. If staging requires a change outside that permission, identify the problem and return the decision to the author.
 
 When capturing a Performance for later use, lodge its transcript and write a [TO LOAN card](references/performance.md).
 
