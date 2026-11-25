@@ -1,9 +1,9 @@
 # Ten Minutes to Lock · Strichfassung
 
-**Director** KHAI PLAYS fresh rehearsal  
-**Venue** Lab handoff bench, performed text read-through  
-**Staging limit** 0%  
-**Pitch** [Practical concentration](../../02-company/fresh/pitch.md)
+- **Director** KHAI PLAYS fresh rehearsal
+- **Venue** Lab handoff bench, performed text read-through
+- **Staging limit** 0%
+- **Pitch** [Practical concentration](../../02-company/fresh/pitch.md)
 
 ## Selected action
 
