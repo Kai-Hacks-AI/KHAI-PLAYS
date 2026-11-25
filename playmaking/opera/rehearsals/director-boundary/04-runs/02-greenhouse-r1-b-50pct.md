@@ -81,9 +81,9 @@ Soren glances up toward the grated landing as the rattle of the outer door and t
   1. Full triage to **Wing A** (`A — CITRUS` at `4.5 psi`, `B — ALLOTMENT` shut to drip-bleed, leaving Wing B unheated toward `1.0°C / 0.5°C`),
   2. Full triage to **Wing B** (`B — ALLOTMENT` at `4.5 psi`, `A — CITRUS` shut to drip-bleed, leaving Wing A unheated toward `1.0°C / 0.5°C`), or
   3. A **`2.2 psi` split throttle** across both wheels (starving far-end return traps, pulling drum water to `2.7 cm`, and grazing `1.0°C / 0.8°C` in both wings).
-  No fourth asymmetric ratio (e.g., `3.5 psi / 1.0 psi`) is authored. Rather than inventing new steam-trap cracking pressures or intermediate temperature curves, the Director constrained Soren in Turn 3 strictly to the authored options and the authored function of drip-bleed, which Soren articulated cleanly in character (*"There's no biased bleed on this seventy-eight tee, Ines—cold drip-bleed only keeps the bottom trap from icing solid; it puts zero heat under those forty benches"*).
+  The Director's pre-Turn 3 cue confined the options to the authored settings. Soren's explanation that drip-bleed prevents the bottom trap from icing is an unsupported performer claim. The cue log does not show the Director supplying or enforcing that explanation.
 - **Playwright note vs. staging choice:** Distinguishing an authored boundary from Director discretion—if the Playwright wants to foreclose mid-scene bargaining for `3.5 / 1.0 psi` ratios mechanically on the Piece card itself, a brief phrase in [Glasshouse Three Steam Manifold](../../director-promptbook/02-company/greenhouse-frost/steam-manifold.md) (`## Load Bearing` or `## Apparent`) noting that branch main traps require full `4.5 psi` header head to clear condensate past drip-bleed would make that boundary self-enforcing, though existing Process constraints handled the beat cleanly without gap-blocking.
-- **Authored constraint integrity:** Confirmed—**zero** authored facts, numbers, timelines, roles, Process outcomes, or Company files were altered or edited.
+- **Authored constraint integrity:** The commitment used an authored setting. Soren's additional drip-bleed explanation remains unverified.
 
 ### 4. Epistemic & Claim Log + Closing Status
 
