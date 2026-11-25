@@ -10,7 +10,7 @@ KHAI PLAYS · Gender rehearsal.
 
 ## Projection
 
-Nina approaches the board with the same right as Owen to nominate and confirm a split. She projects the [Female expression](../../../../position-female.md) into the lab through the visible she/her entry on her directory card. She arrives as a joint author ready to discuss the final samples.
+Nina is a [woman](../../../../position-female.md).
 
 ## Action
 
