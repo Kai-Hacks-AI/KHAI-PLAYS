@@ -19,9 +19,10 @@ Scoped strictly to the two rehearsed pipelines (`Runs 01–02` source-based, `Ru
 
 ## 2. Director `Strichfassung` & Fragment Handoff ([khai-director/SKILL.md](../../../skills/khai-director/SKILL.md#L13))
 
-- **Worked as written across both sub-Plot cuts (`2 / 2`) while keeping `handoff/` `100%` unchanged:**
+- **Both sub-Plot cuts were documented and both authored handoffs stayed unchanged:**
   - Both Directors cut cleanly inside a single Plot (`Plot 3 Cue → Stage 1–2` in [02-source-director/strichfassung.md](../04-runs/02-source-director/strichfassung.md); `Plot 1 Stage 1 → Stage 3` in [04-original-director/strichfassung.md](../04-runs/04-original-director/strichfassung.md)), linked back to `handoff/` without touching a single authored byte (`38 / 38` files SHA-256 unchanged across both routes), and in Run `04` proved that a thoroughly written `Strichfassung` can drive a 6-turn isolated cast run on its own without re-consulting `handoff/`.
 - **One structural distinction surfaced between mid-arc fragments with fixed vs. contingent entry states:**
-  - Run `02` staged a **Plot 3** fragment under `0%` without inventing prior events because `play.md#triggers` fixed Plot 2’s closing state (`Wave 1` at first bite, both mice wedged empty-stomached in the narrow hole, cheese unbitten on the boards).
+  - Run `02` could start a **Plot 3** fragment because `play.md#triggers` fixed Plot 2’s closing state (`Wave 1` at first bite, both mice wedged empty-stomached in the narrow hole, cheese unbitten on the boards).
+  - Run `02` failed the `0%` limit when Wave 2 fired early. Return the conflicting cue to the Playwright and rehearse the fragment again after the author resolves it.
   - Run `04` chose a **Plot 1** fragment under `0%` ([performance-run.md](../04-runs/04-original-director/performance-run.md#L88)) because Plots 2 and 3 of *Slack Water at Marrow Slip* inherit *contingent* bargains, item custody, and breaker states from earlier Plots with no recorded `TO LOAN` Performance card.
   - **Candidate clarification if needed when Directors stage standalone mid-arc fragments under `0%`:** In [khai-director/SKILL.md](../../../skills/khai-director/SKILL.md#L13), note that when a selected mid-Play fragment depends on open choices from an unstaged earlier Plot, those starting conditions must come either from a linked [Performance card](../../../skills/khai-director/references/performance.md) or from explicit Human production assumptions in the brief/Promptbook rather than unrecorded Director invention.
