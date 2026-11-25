@@ -4,7 +4,7 @@ Use these headings in order. Give the Play a title and a one-sentence English de
 
 ## Estate
 
-Name the House responsible for the Play. Link to the House’s home where it exists.
+Name the House responsible for the Play. Link to the House’s home where it exists. When borrowing through the House, follow its [Repertoire](../../../references/repertoire.md) to the declared collections.
 
 ## Name
 
@@ -17,6 +17,8 @@ Describe the story the Plots form together and what their order changes. Link to
 ## Company
 
 Name the Personas and what they carry, along with the Pieces, Places, Processes, Positions, and Plans the Plots can draw on. Link each authored object where it has a file. Give the performers roles with reasons to act.
+
+For each borrowed member, link the specific file and name its lender, so members with the same name remain distinct. Preserve the lender’s ownership and identify the local owner of any newly authored material.
 
 Name the default Pitch and say when any other linked Pitch applies. A Plot can call for a different Pitch during the arc, and the Director can select a different Pitch when staging a run. Use the optional `voice` frontmatter field for one file's prose register. Its scope is that file.
 
