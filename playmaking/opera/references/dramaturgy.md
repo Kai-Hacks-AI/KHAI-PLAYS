@@ -12,7 +12,7 @@ Name the Pattern’s anchor and its type. State the scope of each requirement. A
 
 ## Open
 
-The Pattern author records what the Pattern offers and what it needs from a Play. The Playwright decides how the requirements become specific roles, situations, objects, and cues. Keep the working details in the Play, Plot, or Company member that carries them. Resolve any conflict with the authored material before staging and leave performers their open choices.
+The Pattern author records what the Pattern offers and what it needs from a Play. The Playwright decides how the requirements become specific roles, situations, objects, and cues. Keep each requirement’s working details in the Play, Plot, or Company member that owns them. Link to that file wherever the details are needed. Resolve any conflict with the authored material before staging and leave performers their open choices.
 
 A Pattern can be composed from other Patterns. Name and link its constituents, explain what their interaction adds, and state which requirements the Play must fulfil, including requirements carried through from the constituents. The Playwright uses the same contract for a composed Pattern.
 

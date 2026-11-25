@@ -23,3 +23,9 @@ Scoped strictly to the two rehearsed cases (`Gender` and `Clime`) and four `0%`-
   - Tighten that single sentence to:
     > *"Keep each requirement’s working details in the single Play, Plot, or Company member that owns them, and link there rather than repeating those details across other files."*
 - **Optional discoverability links on promotion:** Link `references/dramaturgy.md` from `khai-playwright/references/choosing-material.md` (and optionally `khai-director/SKILL.md` for `## Weave`), noting that Director access to `dramaturgy.md` was not tested in these four staging runs and was not required for `0%` gap detection when `play.md` linked the borrowed Pattern files.
+
+## Review follow-up
+
+The reduced Clime variant removes the standing regime across several files and leaves cross-file inconsistencies. The Director identified the missing standing regime and the inconsistencies together. This run leaves open whether the Director would detect that missing requirement in isolation.
+
+After the rehearsal, [Choosing Material](../../../skills/khai-playwright/references/choosing-material.md) gained a link to Dramaturgy and the Dramaturgy reference gained guidance on keeping requirements in their owning files. The runs above used the pinned inputs in the protocol.
