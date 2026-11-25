@@ -1,6 +1,6 @@
 # Build a Promptbook
 
-Write a short Promptbook for the way the Company will perform. Reuse it across Plays that need the same conditions. State reusable instructions in terms of roles, cues, or situations. Keep named facts and circumstances in the Play and its Company files.
+Describe how the experience works in performance. Say how people participate, what cues a response or handoff, and how information becomes available. The Play and Company files supply the particular people, places, objects, and events. Write the Promptbook in terms of roles, cues, and situations so it can serve several Plays that work the same way.
 
 Each of the five chapters has a fixed job:
 
