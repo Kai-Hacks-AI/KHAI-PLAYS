@@ -1,15 +1,13 @@
-# Research lookup rehearsal fixtures
+# Research rehearsal fixtures
 
-Materialize brief LORE records for the synthetic entries below before running. Use the same records in both conditions. Treat the entries as rehearsal data and label them as such. They describe candidate source uses, not verified research findings or existing Plays.
+Prepare the inputs below before starting either run. Label synthetic records as fixtures. Give each fixture work its own Markdown Sourcebook beside its entry file and derive a small table linking each source use back to its Sourcebook.
 
-## Research case
+## Scientific case
 
-Start with the legacy [Weather](https://github.com/ChBrain/khai/tree/c8c56c7e843eac2eb33709d06ad1d7aca4dd8c00/packages/engines/weather), [Climate](https://github.com/ChBrain/khai/tree/c8c56c7e843eac2eb33709d06ad1d7aca4dd8c00/packages/engines/climate), and [Clime](https://github.com/ChBrain/khai/blob/c8c56c7e843eac2eb33709d06ad1d7aca4dd8c00/packages/composites/clime/REFERENCES.md) reference records. Pin the exact entries used. Add a synthetic second Pattern that uses one work already cited by Clime for a different claim, and a synthetic Play that uses Clime without directly citing that work.
+Brief: “What can a single exceptional rain event tell us about the long-term climate of a place? Would a new Pattern about that inference add anything?”
 
-Give the participant a brief for a proposed Pattern about what one day of weather can tell observers about a place’s climate. Ask them to find where that relationship is already covered and which additional results merely share a source. Check that the synthetic Play’s use is traced through Clime.
+Pin an accessible external passage on event attribution that distinguishes one event from a change in its likelihood. Provide the legacy [Clime Sourcebook](https://github.com/ChBrain/khai/blob/c8c56c7e843eac2eb33709d06ad1d7aca4dd8c00/packages/composites/clime/REFERENCES.md) in the fixture collection. Include a synthetic Pattern citing the same work for a different claim and a synthetic Play drawing on that work through Clime. Keep the name Clime and the expected results out of the brief.
 
-## Adaptation case
+## Literary case
 
-Use two synthetic Plays based on the Grimm tale *Hansel and Gretel*. Give them distinct edition identifiers under the same underlying tale identity. One adapts the parents’ decision, and the other adapts the children’s escape. Add a synthetic Play from another tale that shares the abandonment motif. Pin the fixture’s local source-use records and use the same ones in both arms.
-
-Give the participant a brief for a proposed Play about the parents’ decision in a third edition. Ask which prior Play covers that episode, which shares only the tale or motif, and what a distinct treatment would need to specify. Use exact work, edition, and episode identifiers in the fixture so that an index can preserve all three levels.
+Give the agent a passage from a pinned edition of the Grimm tale *Hansel and Gretel* concerning the parents’ decision. Ask what has already been adapted and what a new treatment might add. Pin an accessible second edition or translation. Create synthetic Sourcebooks for one Play that adapts the same episode from the second edition and another that adapts the children’s escape. The expected result distinguishes work, edition, and episode.
