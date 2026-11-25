@@ -32,3 +32,5 @@ Per [01-setup/README.md](../01-setup/README.md#L17), this file records what work
 ## Guidance updated after the rehearsal
 
 The shared [Repertoire reference](../../../references/repertoire.md), the [Impresario skill](../../../skills/khai-impresario/SKILL.md), and the [Play reference](../../../skills/khai-playwright/references/play.md) now carry these rules.
+
+The four passing checks describe the pinned pre-refinement rehearsal. The updated guidance has not been independently rehearsed; it addresses the observed handoff gaps without claiming additional experimental evidence.
