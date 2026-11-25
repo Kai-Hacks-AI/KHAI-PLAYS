@@ -8,7 +8,7 @@ Locked before launching any run at branch tip `da3de5361f2f264105e5cfcb54373b619
 
 - **Pinned rehearsal commit:** `da3de5361f2f264105e5cfcb54373b6192a0b16d`
 - **Skills under test:**
-  - [khai-impresario/SKILL.md](../../../skills/khai-impresario/SKILL.md) and [references/house-repertoire.md](../../../skills/khai-impresario/references/house-repertoire.md) (Step 1 only)
+  - [khai-impresario/SKILL.md](https://github.com/Kai-Hacks-AI/KHAI-PLAYS/blob/da3de5361f2f264105e5cfcb54373b6192a0b16d/playmaking/opera/skills/khai-impresario/SKILL.md) and [references/house-repertoire.md](https://github.com/Kai-Hacks-AI/KHAI-PLAYS/blob/da3de5361f2f264105e5cfcb54373b6192a0b16d/playmaking/opera/skills/khai-impresario/references/house-repertoire.md) (Step 1 only)
   - [khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md) and its `references/` directory (Step 2 only)
 - **Approved external lender fixtures (`02-company/`):**
   1. **Harbor Office** — [harbor-office/inspection.md](../02-company/harbor-office/inspection.md) (`https://github.com/Kai-Hacks-AI/KHAI-PLAYS/blob/da3de5361f2f264105e5cfcb54373b6192a0b16d/playmaking/opera/rehearsals/impresario/02-company/harbor-office/inspection.md`)
