@@ -13,7 +13,7 @@ Test whether the Director can creatively stage authored material without changin
 A short boundary clarification improves authored-material fidelity **without reducing creative staging** relative to the existing Director skill.
 
 ## Controls
-Compare A (current `khai-director/SKILL.md`, verbatim) against B (same skill with only the candidate clarification below). Preserve exact skill versions in `02-company/`. Use identical source documents, casting opportunities, initial facts, actor model, run length and evaluation criteria within each A/B pair. Run independent, isolated contexts with at least two repetitions per condition. Do not expose previous runs or evaluations to subsequent agents.
+At the start of the independent rerun, record the current `repertoire/playmaking.opera` commit containing the merged Director skill. Use `khai-director/SKILL.md` from that commit verbatim for A. Use the same file with only the candidate clarification below for B. Preserve exact skill versions in `02-company/`. Use identical source documents, casting opportunities, initial facts, actor model, run length and evaluation criteria within each A/B pair. Run independent, isolated contexts with at least two repetitions per condition. Do not expose previous runs or evaluations to subsequent agents.
 
 Candidate clarification (experimental, **not** an installed skill change):
 > Assemble and stage authored material creatively. Introduce circumstances, events, and cues, but preserve each authored object's identity, properties, and dynamics. Let performers determine their responses and carry consequences forward. Return proposed changes to the Playwright.
