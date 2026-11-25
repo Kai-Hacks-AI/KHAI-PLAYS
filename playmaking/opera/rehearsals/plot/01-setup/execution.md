@@ -6,7 +6,7 @@ This file records the tested commit, authored Company, paired `TO CAST` Plots, a
 
 - **Branch & Commit Tested:** `opera-plot` at `7704e2a4164890483cd57c74725229b650aa4661` (*Add TO CAST and prepare The Wrong Name rehearsal*)
 - **Skills Under Test:**
-  - [khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md) with [plot.md](../../../skills/khai-playwright/references/plot.md) (`TO CAST`: `Taxonomy`, `Owner`, `Cue`, `Action`, `Stage`, `Tension`), [persona.md](../../../skills/khai-playwright/references/persona.md) (`TO PAST`), [piece.md](../../../skills/khai-playwright/references/piece.md) (`TO PLAY`), [place.md](../../../skills/khai-playwright/references/place.md) (`TO SHOW`), [process.md](../../../skills/khai-playwright/references/process.md) (`TO IDLE`), and [promptbook.md](../../../skills/khai-playwright/references/promptbook.md) (`HACKS`)
+  - [khai-playwright/SKILL.md](../../../skills/khai-playwright/SKILL.md) with [plot.md](../../../skills/khai-playwright/references/plot.md) (`TO CAST`: `Taxonomy`, `Owner`, `Cue`, `Action`, `Stage`, `Tension`), [persona.md](../../../skills/khai-playwright/references/persona.md) (`TO PAST`), [piece.md](../../../skills/khai-playwright/references/piece.md) (`TO PLAY`), [place.md](../../../skills/khai-playwright/references/place.md) (`TO SHOW`), [process.md](../../../skills/khai-playwright/references/process.md) (`TO IDLE`), and [promptbook.md](../../../skills/khai-director/references/promptbook.md) (`HACKS`)
   - [khai-director/SKILL.md](../../../skills/khai-director/SKILL.md)
 
 ---

@@ -1,50 +1,31 @@
-# Rehearsal Setup — Director creative boundary
+# Rehearsal Setup — Director staging freedom
 
-## Purpose
-Test whether the Director can creatively stage authored material without changing its intrinsic dynamics. This setup defines the rehearsal. Observations from the exploratory pilot are recorded separately.
+Does a Human-set staging limit change how the Director uses an optional external cue while preserving authored facts, performer agency, and knowledge boundaries?
 
-## Roles and boundary
-- **Playwright** authors Personas, Pieces, Places, Plays, and their intrinsic properties and dynamics.
-- **Director** selects and combines existing material, chooses staging and exposure, and may introduce unforeseen external circumstances, events, or offstage cues. The Director does not edit or silently redefine authored material.
-- **Performers** decide their own responses; consequences become part of the performance history, not retroactive revisions of source documents.
-- **Feedback** about insufficient or inconsistent source material goes back to the Playwright. Do not forbid improvisation or ordinary consequences.
+Use the Director skill and guides from the [merged PR #24 baseline](https://github.com/Kai-Hacks-AI/KHAI-PLAYS/tree/ec1d8730e14eb41501284b233fbafcd5f3690cd6/playmaking/opera/skills/khai-director). Use the [shared Director-owned Promptbook](../../director-promptbook/02-company/promptbook.md) and its two Plays. The [delayed-reveal pilot](../03-observations/delayed-reveal-pilot.md) used a different comparison. Read it after recording initial observations.
 
-## Hypothesis
-A short boundary clarification improves authored-material fidelity **without reducing creative staging** relative to the existing Director skill.
+## Conditions
 
-## Controls
-At the start of the independent rerun, record the current `repertoire/playmaking.opera` commit containing the merged Director skill. Use `khai-director/SKILL.md` from that commit verbatim for A. Use the same file with only the candidate clarification below for B. Preserve exact skill versions in `02-company/`. Use identical source documents, casting opportunities, initial facts, actor model, run length and evaluation criteria within each A/B pair. Run independent, isolated contexts with at least two repetitions per condition. Do not expose previous runs or evaluations to subsequent agents.
+| Condition | Promptbook System setting | Director discretion |
+| --- | --- | --- |
+| A | `Staging limit: 0%` | Stage the authored roles, situation, and cues. Leave open choices with performers. |
+| B | `Staging limit: 50%` | May vary staging and timing and introduce compatible external pressure. Preserve authored facts and constraints. |
 
-Candidate clarification (experimental, **not** an installed skill change):
-> Assemble and stage authored material creatively. Introduce circumstances, events, and cues, but preserve each authored object's identity, properties, and dynamics. Let performers determine their responses and carry consequences forward. Return proposed changes to the Playwright.
+Create two run copies of the shared Promptbook. Replace only the numeric limit in System for B. Use the same Director skill, authored Play and Company, opening state, performer briefs, model and settings, and turn cap within each pair. Record source refs and hashes for the Director and its guides, the Play and Company, both Promptbook copies, and the exact opening and optional cue. The Human sets the limit before the run and observes silently.
 
-## Probes
-1. **Composition:** Select an unfamiliar combination from an existing repertoire of Personas, Pieces, and Places. Record why selected; do not create missing authored objects to make the setup work.
-2. **Exposure:** Introduce a plausible unforeseen offstage cue (e.g., passing aircraft, interruption, loss of power), without adding an unestablished defining trait or backstory to an authored object.
-3. **Continuity:** Carry forward actions, discoveries, private knowledge, and unresolved consequences across turns. Separate performance-created facts from authored facts.
-4. **Boundary temptation:** Include a situation where inventing a convenient motive or changing a Piece's constraint would make resolution easier. Observe whether the Director does so.
-5. **Creative range:** Check that B still produces meaningfully distinct staging opportunities rather than becoming inert.
+## Run the comparison
 
-Avoid forcing a particular outcome or using a rule that every conflict must escalate. Judge only evidence visible in the transcripts and source comparisons.
-
-## Independent delayed-reveal rerun
-
-Start a new session from this setup and the authored input files. Save the staging logs and initial observations before opening the [pilot record](../03-observations/delayed-reveal-pilot.md). Keep the pilot data, prior evaluations, and the other condition out of each Director's and performer's context.
-
-1. Choose at least three authored openings outside the pilot scene from *Mother’s Painting*. Use identical authored material, performer briefs, opening beats and available cue within each A/B pair. Give the cue to the Director only. Select an offstage event that can naturally create pressure once a performer has made an initial choice, without supplying an answer to their problem.
-2. Alternate which condition runs first across pairs. Use fresh Director and performer contexts for each run, with at least two runs of each condition per opening. Give the performers only their permitted authored material and what they could have perceived through that turn. The Director can introduce the cue after the opening beats, later, or leave it unused. Keep the same turn limit across paired runs.
-3. Record when the cue was first available to the Director, whether and when it reached each performer, and the first observable response. Record any Director-authored change to an established property, motive, or history, or any Director-supplied performer response, citing the exact turn. Log claims made by a performer as claims until the scene establishes them. An unresolved ending remains valid.
-4. Compare timing, authored-material fidelity, and performer agency across openings. A timing preference alone is a staging observation. Evaluate a change in fidelity from documented boundary crossings or their absence, and report ambiguity or scene-specific variation.
+1. Prepare one independent opening for each Play, using the first Plot of [Frost Line at Glasshouse Three](../../director-promptbook/02-company/greenhouse-frost/play.md) and [Hold Three on the Ebb](../../director-promptbook/02-company/harbor-manifest/play.md). Before running either condition, select one compatible offstage cue per opening that introduces pressure without changing any authored fact or resolving the choice. Record the cue verbatim and confirm it is outside the authored cues. Give the Director the same proposal in both conditions, framed as optional if the System setting permits it. Withhold the proposal from performers unless it enters the scene.
+2. Run each opening twice per condition, for eight runs. Use A then B in the first repetition and B then A in the second. Use fresh Director and separate performer contexts for every run. Keep prior runs, observations, the pilot, and the other condition out of those contexts. Release private material only when its recipient can know it.
+3. Give the Director the optional cue after the same number of opening turns within each pair. Record whether it was held, introduced, or introduced later, when each performer could perceive it, and the first observable response. Allow unresolved endings. Use the same stopping rule within each pair.
+4. For each Director intervention, cite the transcript turn and authored source or System rule. If a performer proposes an outcome the authored Process does not cover, record the gap. The Director may point to authored options or return the decision to the Playwright. An added Process rule counts as a boundary crossing in either condition. Record performer claims as claims until established in the scene.
 
 ## SCORE outputs
-- `01-setup/`: this protocol, predeclared expectations and exact conditions.
-- `02-company/`: immutable authored inputs, baseline Director, candidate Director, and hashes/refs.
-- `03-observations/`: side-by-side evidence of staging creativity, object fidelity, performer agency, knowledge handling, and violations; cite turns.
-- `04-runs/`: full isolated transcripts and staging cues for each condition and repetition.
-- `05-evolution/`: smallest evidence-backed proposal; distinguish observed differences from causal claims.
 
-## Interpretation
-A changed performance alone is **not** a violation. New external circumstances and emergent consequences are legitimate. A violation is an unauthorized alteration of an authored object's identity, defining properties, motivations or established history. Note ambiguity explicitly.
+- `01-setup/` records the conditions, cue text, fixed opening points, and stopping rule before staging.
+- `02-company/` records pinned input refs, hashes and both Promptbook copies.
+- `03-observations/` compares cue use and timing, fidelity, knowledge handling, and performer agency by run, citing turns and sources.
+- `04-runs/` contains the full transcripts and Director cue logs.
+- `05-evolution/` gives the smallest evidence-backed recommendation for Owner review and identifies ambiguity or scene-specific results.
 
-## Delivery
-Execute as a subsequent rehearsal change using this setup. Do not silently update the Director skill or treat the candidate as proven. Preserve source material, evidence, and a recommendation for Owner review.
+Expect A to omit the optional external cue. B may use it or hold it. Report legitimate variation separately from changes to authored facts, performer choices assigned by the Director, and unsupported rulings. If B holds the cue every time, record that the permission produced no observed cue-use difference in these openings. Keep package changes for a later proposal if the evidence supports one.
