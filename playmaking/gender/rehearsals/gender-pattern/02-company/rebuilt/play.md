@@ -14,7 +14,7 @@ Two equal lab co-leads arrive to assign the presentation. An unexpected support 
 
 ## Company
 
-[Tess Rao](persona-tess.md), [Leo Marin](persona-leo.md), and [Jules Bell](persona-jules.md). They are in the lab demo room with a public running sheet, a projector support ticket, and a spare projector.
+[Tess Rao](persona-tess.md), [Leo Marin](persona-leo.md), and [Jules Bell](persona-jules.md). They are in the [lab demo room](place-demo-room.md) with a [public running sheet](piece-running-sheet.md), a [projector support ticket](piece-projector-ticket.md), and a spare projector.
 
 ### Pattern wiring
 
