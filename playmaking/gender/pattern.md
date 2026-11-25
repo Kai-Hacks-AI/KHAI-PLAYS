@@ -10,9 +10,9 @@ Uses the [OPERA Dramaturgy contract](https://github.com/Kai-Hacks-AI/KHAI-PLAYS/
 
 [Gender](position-gender.md) is the anchor. The Pattern offers two playable Positions: [Female](position-female.md) and [Male](position-male.md).
 
-Link this Pattern from the Play. For each relevant Plot, link the chosen Position from the affected Persona's Projection and make clear whose reading it represents. Where the Persona conceals a different reading, use Shadow for that concealed material. Link the authored files that identify:
+Link this Pattern from the Play. For each relevant Plot, link the chosen Position from the Persona's Projection and establish what the Persona projects into the room. Keep the projection available independently of who receives it. Author reception in the Play or Plot: people may notice it, read it differently, or miss it entirely. Where the Persona conceals a different reading, use Shadow for that concealed material. Link the authored files that identify:
 
-- Who makes the reading and in what setting.
+- What is projected into the room, and where the Play establishes any readings that matter to the Plot.
 - What cue they can observe and when it becomes available.
 - Which action puts the offered Position under pressure, and which observable response enacts its cost in this setting.
 
@@ -24,4 +24,4 @@ The Playwright sets the concrete cue, local stakes, readers, and the outcome spa
 
 ## Weave
 
-Stage the authored cue and give the Company room to act on or resist the resulting treatment. If a required reader, cue, or consequence is missing, identify the gap for the Playwright before staging that connection.
+Stage the authored cue and give the Company room to act on or resist the resulting treatment. If a reception, cue, or consequence required by the authored Plot is missing, identify the gap for the Playwright before staging that connection.
