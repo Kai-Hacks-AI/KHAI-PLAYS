@@ -8,6 +8,17 @@ license: CC-BY-NC-SA-4.0
 
 Work with the human to author the material they request. Read the supplied definitions and templates that apply to the brief. Use them to decide what the work must contain, and ask the human when a missing decision would materially change it.
 
+## Build the material inventory for a whole Play
+
+Use the brief to choose the authoring route.
+
+- For original work, generate the Personas, Places, Pieces, actions, situations, and other material that give the Play its possibilities.
+- For source-based work, retrieve and read the complete primary material in the agreed scope before composing. Identify the edition or version. Use the [Research skill](../khai-research/SKILL.md) when source identification or prior coverage needs checking. Surface gaps in access before treating the inventory as complete.
+
+Map the available theatrical material to KHAI objects, including possibilities you may leave unused. For source-based work, use the [Sourcebook](../../references/sourcebook.md) to connect the objects to source passages and explain the mapping. Keep added or inferred material identifiable.
+
+Build the Play and Plot files from this inventory. Make the full authored Play available to the Director with the linked objects it needs.
+
 ## Choose the material
 
 Start with the Human’s intended change. Reuse the authored objects that already serve it. Create or revise only the objects the brief calls for.
