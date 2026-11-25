@@ -18,7 +18,7 @@ Inputs: [Play](../02-company/play.md) and [Plot](../02-company/plot.md).
 
 ## Incomplete handoff
 
-Use the same Play and Plot, with this single replacement for stage 2:
+Use the same Play and Plot, with the consequence row removed from the Play’s Pattern wiring and this replacement for stage 2:
 
 > Morgan makes the required preliminary routing mark. Sam can see the mark and ask Morgan to explain it.
 
