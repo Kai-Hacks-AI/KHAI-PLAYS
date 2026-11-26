@@ -29,4 +29,4 @@ Ground each reading in the setting and the people or institution doing the readi
 
 ## Encoding
 
-[Inventory](inventory.md) maps the researched mechanisms to possible KHAI objects. [Pattern](pattern.md) turns them into a contract for the Playwright. Its two offered Positions carry playable pressures, and the Play specifies how the local readers enforce them.
+[Inventory](inventory.md) maps the researched mechanisms to possible KHAI objects. [Pattern](pattern.md) turns them into a contract for the Playwright. Its two offered Positions carry playable pressures. The Director links the root in Promptbook Knowledge, and the Playwright links the expressions in Persona Projection.

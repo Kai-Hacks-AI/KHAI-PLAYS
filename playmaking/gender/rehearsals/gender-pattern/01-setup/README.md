@@ -1,14 +1,20 @@
 # Rehearse the rebuilt Gender Pattern
 
-## Playwright brief
+## Current rehearsal
+
+Use the [Play and Company](../02-company/promptbook-rehearsal/play.md) with the Director’s [Promptbook](../04-runs/promptbook/promptbook.md). See the [rehearsal review](../04-runs/promptbook/review.md).
+
+## Earlier rehearsal setup
+
+### Playwright brief
 
 In a lab, two colleagues of equal formal standing have ten minutes to choose who will present their joint work and who will handle an unexpected support request. Build the material inventory, then author the Play, Plot, and Company files with the pinned OPERA Playwright instructions linked from the [Pattern](../../../pattern.md). Use the offered Positions and wire them into the Play. Make the setting, the readers, the observable cues, and the cost of resisting playable. Leave the performers' response open.
 
-## Director brief
+### Director brief
 
 Start from the Playwright's completed handoff and the pinned OPERA Director instructions. With a 0% staging limit, prepare a Strichfassung and rehearse the fragment in which the obligations are assigned and one is challenged. Preserve the authored material and evidence of what the cast could observe. If the wiring leaves an essential condition open, return it to the Playwright.
 
-## Review
+### Review
 
 Trace each staged pressure from the offered Position through the authored wiring to an observable beat. Check whether the outcome remained open and whether the Director followed the authored cues. Record the role inputs, handoff, Strichfassung, and run separately.
 

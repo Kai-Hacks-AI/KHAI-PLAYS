@@ -14,7 +14,7 @@ A reading the room applies to the Persona. It changes what others grant, expect,
 
 ## Orders
 
-While the reading holds, the room treats the Persona's choices in light of the expectations it attaches to that expression. The Play establishes the readers, their cues, and how they apply or contest the reading.
+While the reading holds, the room treats the Persona's choices in light of the expectations it attaches to that expression. The Company works with the cues available in the authored situation and decides how to receive or contest the reading.
 
 ## Loses
 
@@ -22,4 +22,4 @@ The ability to have an action considered independently of that reading by those 
 
 ## Drives
 
-The Persona can take up the standing, resist its demands, try to change the reading, or act around it. The other Personas' responses follow the Play's local wiring.
+The Persona can take up the standing, resist its demands, try to change the reading, or act around it. Other Personas respond through the choices open to them in performance.
